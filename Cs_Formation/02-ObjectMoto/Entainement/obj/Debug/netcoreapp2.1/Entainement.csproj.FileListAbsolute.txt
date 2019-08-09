@@ -1,0 +1,11 @@
+c:\users\jpi\source\repos\Entainement\Entainement\bin\Debug\netcoreapp2.1\Entainement.deps.json
+c:\users\jpi\source\repos\Entainement\Entainement\bin\Debug\netcoreapp2.1\Entainement.runtimeconfig.json
+c:\users\jpi\source\repos\Entainement\Entainement\bin\Debug\netcoreapp2.1\Entainement.runtimeconfig.dev.json
+c:\users\jpi\source\repos\Entainement\Entainement\bin\Debug\netcoreapp2.1\Entainement.dll
+c:\users\jpi\source\repos\Entainement\Entainement\bin\Debug\netcoreapp2.1\Entainement.pdb
+c:\users\jpi\source\repos\Entainement\Entainement\obj\Debug\netcoreapp2.1\Entainement.csprojAssemblyReference.cache
+c:\users\jpi\source\repos\Entainement\Entainement\obj\Debug\netcoreapp2.1\Entainement.csproj.CoreCompileInputs.cache
+c:\users\jpi\source\repos\Entainement\Entainement\obj\Debug\netcoreapp2.1\Entainement.AssemblyInfoInputs.cache
+c:\users\jpi\source\repos\Entainement\Entainement\obj\Debug\netcoreapp2.1\Entainement.AssemblyInfo.cs
+c:\users\jpi\source\repos\Entainement\Entainement\obj\Debug\netcoreapp2.1\Entainement.dll
+c:\users\jpi\source\repos\Entainement\Entainement\obj\Debug\netcoreapp2.1\Entainement.pdb

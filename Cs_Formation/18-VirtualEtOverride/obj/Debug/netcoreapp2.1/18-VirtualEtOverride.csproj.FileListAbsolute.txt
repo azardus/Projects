@@ -1,0 +1,11 @@
+C:\Users\jpi\source\repos\Cs_Formation\18-VirtualEtOverride\bin\Debug\netcoreapp2.1\18-VirtualEtOverride.deps.json
+C:\Users\jpi\source\repos\Cs_Formation\18-VirtualEtOverride\bin\Debug\netcoreapp2.1\18-VirtualEtOverride.runtimeconfig.json
+C:\Users\jpi\source\repos\Cs_Formation\18-VirtualEtOverride\bin\Debug\netcoreapp2.1\18-VirtualEtOverride.runtimeconfig.dev.json
+C:\Users\jpi\source\repos\Cs_Formation\18-VirtualEtOverride\bin\Debug\netcoreapp2.1\18-VirtualEtOverride.dll
+C:\Users\jpi\source\repos\Cs_Formation\18-VirtualEtOverride\bin\Debug\netcoreapp2.1\18-VirtualEtOverride.pdb
+C:\Users\jpi\source\repos\Cs_Formation\18-VirtualEtOverride\obj\Debug\netcoreapp2.1\18-VirtualEtOverride.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\18-VirtualEtOverride\obj\Debug\netcoreapp2.1\18-VirtualEtOverride.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\18-VirtualEtOverride\obj\Debug\netcoreapp2.1\18-VirtualEtOverride.AssemblyInfo.cs
+C:\Users\jpi\source\repos\Cs_Formation\18-VirtualEtOverride\obj\Debug\netcoreapp2.1\18-VirtualEtOverride.dll
+C:\Users\jpi\source\repos\Cs_Formation\18-VirtualEtOverride\obj\Debug\netcoreapp2.1\18-VirtualEtOverride.pdb
+C:\Users\jpi\source\repos\Cs_Formation\18-VirtualEtOverride\obj\Debug\netcoreapp2.1\18-VirtualEtOverride.csprojAssemblyReference.cache

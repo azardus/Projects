@@ -1,0 +1,11 @@
+C:\Users\jpi\source\repos\Traveaux pratiqque c\ManipulationDesNombresIntergerEtFloat\bin\Debug\netcoreapp2.1\ManipulationDesNombresIntergerEtDouble.deps.json
+C:\Users\jpi\source\repos\Traveaux pratiqque c\ManipulationDesNombresIntergerEtFloat\bin\Debug\netcoreapp2.1\ManipulationDesNombresIntergerEtDouble.runtimeconfig.json
+C:\Users\jpi\source\repos\Traveaux pratiqque c\ManipulationDesNombresIntergerEtFloat\bin\Debug\netcoreapp2.1\ManipulationDesNombresIntergerEtDouble.runtimeconfig.dev.json
+C:\Users\jpi\source\repos\Traveaux pratiqque c\ManipulationDesNombresIntergerEtFloat\bin\Debug\netcoreapp2.1\ManipulationDesNombresIntergerEtDouble.dll
+C:\Users\jpi\source\repos\Traveaux pratiqque c\ManipulationDesNombresIntergerEtFloat\bin\Debug\netcoreapp2.1\ManipulationDesNombresIntergerEtDouble.pdb
+C:\Users\jpi\source\repos\Traveaux pratiqque c\ManipulationDesNombresIntergerEtFloat\obj\Debug\netcoreapp2.1\ManipulationDesNombresIntergerEtDouble.csprojAssemblyReference.cache
+C:\Users\jpi\source\repos\Traveaux pratiqque c\ManipulationDesNombresIntergerEtFloat\obj\Debug\netcoreapp2.1\ManipulationDesNombresIntergerEtDouble.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\Traveaux pratiqque c\ManipulationDesNombresIntergerEtFloat\obj\Debug\netcoreapp2.1\ManipulationDesNombresIntergerEtDouble.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\Traveaux pratiqque c\ManipulationDesNombresIntergerEtFloat\obj\Debug\netcoreapp2.1\ManipulationDesNombresIntergerEtDouble.AssemblyInfo.cs
+C:\Users\jpi\source\repos\Traveaux pratiqque c\ManipulationDesNombresIntergerEtFloat\obj\Debug\netcoreapp2.1\ManipulationDesNombresIntergerEtDouble.dll
+C:\Users\jpi\source\repos\Traveaux pratiqque c\ManipulationDesNombresIntergerEtFloat\obj\Debug\netcoreapp2.1\ManipulationDesNombresIntergerEtDouble.pdb

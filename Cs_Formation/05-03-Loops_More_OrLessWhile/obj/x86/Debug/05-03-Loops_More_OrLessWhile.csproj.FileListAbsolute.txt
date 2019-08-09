@@ -1,0 +1,12 @@
+C:\Users\jpi\source\repos\FormationCs\05-03-Loops_More_OrLessWhile\bin\Debug\ConsoleApplication.exe
+C:\Users\jpi\source\repos\FormationCs\05-03-Loops_More_OrLessWhile\bin\Debug\ConsoleApplication.pdb
+C:\Users\jpi\source\repos\FormationCs\05-03-Loops_More_OrLessWhile\obj\x86\Debug\05-03-Loops_More_OrLessWhile.csprojAssemblyReference.cache
+C:\Users\jpi\source\repos\FormationCs\05-03-Loops_More_OrLessWhile\obj\x86\Debug\05-03-Loops_More_OrLessWhile.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\FormationCs\05-03-Loops_More_OrLessWhile\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\jpi\source\repos\FormationCs\05-03-Loops_More_OrLessWhile\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\jpi\source\repos\Cs_Formation\05-03-Loops_More_OrLessWhile\bin\Debug\ConsoleApplication.exe
+C:\Users\jpi\source\repos\Cs_Formation\05-03-Loops_More_OrLessWhile\bin\Debug\ConsoleApplication.pdb
+C:\Users\jpi\source\repos\Cs_Formation\05-03-Loops_More_OrLessWhile\obj\x86\Debug\05-03-Loops_More_OrLessWhile.csprojAssemblyReference.cache
+C:\Users\jpi\source\repos\Cs_Formation\05-03-Loops_More_OrLessWhile\obj\x86\Debug\05-03-Loops_More_OrLessWhile.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\05-03-Loops_More_OrLessWhile\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\jpi\source\repos\Cs_Formation\05-03-Loops_More_OrLessWhile\obj\x86\Debug\ConsoleApplication.pdb

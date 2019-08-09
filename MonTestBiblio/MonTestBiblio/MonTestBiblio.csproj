@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MaBiblioDeClasse2\MaBiblioDeClasse2.csproj" />
+    <ProjectReference Include="..\MaBiblioDeClasse\MaBiblioDeClasse.csproj" />
+  </ItemGroup>
+
+</Project>

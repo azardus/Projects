@@ -1,0 +1,13 @@
+c:\users\jpi\source\repos\XUnitTestProject1\.vs\XUnitTestProject1\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\jpi\source\repos\XUnitTestProject1\.vs\XUnitTestProject1\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\users\jpi\source\repos\XUnitTestProject1\.vs\XUnitTestProject1\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\users\jpi\source\repos\XUnitTestProject1\.vs\XUnitTestProject1\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.deps.json
+c:\users\jpi\source\repos\XUnitTestProject1\.vs\XUnitTestProject1\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.json
+c:\users\jpi\source\repos\XUnitTestProject1\.vs\XUnitTestProject1\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.dev.json
+c:\users\jpi\source\repos\XUnitTestProject1\.vs\XUnitTestProject1\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.dll
+c:\users\jpi\source\repos\XUnitTestProject1\.vs\XUnitTestProject1\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.csprojAssemblyReference.cache
+c:\users\jpi\source\repos\XUnitTestProject1\.vs\XUnitTestProject1\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CoreCompileInputs.cache
+c:\users\jpi\source\repos\XUnitTestProject1\.vs\XUnitTestProject1\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfoInputs.cache
+c:\users\jpi\source\repos\XUnitTestProject1\.vs\XUnitTestProject1\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
+c:\users\jpi\source\repos\XUnitTestProject1\.vs\XUnitTestProject1\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CopyComplete
+c:\users\jpi\source\repos\XUnitTestProject1\.vs\XUnitTestProject1\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.dll

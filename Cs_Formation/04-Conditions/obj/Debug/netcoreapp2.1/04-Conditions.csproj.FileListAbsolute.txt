@@ -1,0 +1,14 @@
+C:\Users\jpi\source\repos\FormationCs\04-Conditions\obj\Debug\netcoreapp2.1\04-Conditions.csprojAssemblyReference.cache
+C:\Users\jpi\source\repos\FormationCs\04-Conditions\obj\Debug\netcoreapp2.1\04-Conditions.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\FormationCs\04-Conditions\obj\Debug\netcoreapp2.1\04-Conditions.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\FormationCs\04-Conditions\obj\Debug\netcoreapp2.1\04-Conditions.AssemblyInfo.cs
+C:\Users\jpi\source\repos\Cs_Formation\04-Conditions\bin\Debug\netcoreapp2.1\04-Conditions.deps.json
+C:\Users\jpi\source\repos\Cs_Formation\04-Conditions\bin\Debug\netcoreapp2.1\04-Conditions.runtimeconfig.json
+C:\Users\jpi\source\repos\Cs_Formation\04-Conditions\bin\Debug\netcoreapp2.1\04-Conditions.runtimeconfig.dev.json
+C:\Users\jpi\source\repos\Cs_Formation\04-Conditions\bin\Debug\netcoreapp2.1\04-Conditions.dll
+C:\Users\jpi\source\repos\Cs_Formation\04-Conditions\bin\Debug\netcoreapp2.1\04-Conditions.pdb
+C:\Users\jpi\source\repos\Cs_Formation\04-Conditions\obj\Debug\netcoreapp2.1\04-Conditions.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\04-Conditions\obj\Debug\netcoreapp2.1\04-Conditions.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\04-Conditions\obj\Debug\netcoreapp2.1\04-Conditions.AssemblyInfo.cs
+C:\Users\jpi\source\repos\Cs_Formation\04-Conditions\obj\Debug\netcoreapp2.1\04-Conditions.dll
+C:\Users\jpi\source\repos\Cs_Formation\04-Conditions\obj\Debug\netcoreapp2.1\04-Conditions.pdb

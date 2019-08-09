@@ -1,0 +1,13 @@
+C:\Users\jpi\source\repos\FormationCs\05-01-Loops_MoreOrLessDoWhile\obj\Debug\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\FormationCs\05-01-Loops_MoreOrLessDoWhile\obj\Debug\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\FormationCs\05-01-Loops_MoreOrLessDoWhile\obj\Debug\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.AssemblyInfo.cs
+C:\Users\jpi\source\repos\Cs_Formation\05-01-Loops_MoreOrLessDoWhile\bin\Debug\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.deps.json
+C:\Users\jpi\source\repos\Cs_Formation\05-01-Loops_MoreOrLessDoWhile\bin\Debug\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.runtimeconfig.json
+C:\Users\jpi\source\repos\Cs_Formation\05-01-Loops_MoreOrLessDoWhile\bin\Debug\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.runtimeconfig.dev.json
+C:\Users\jpi\source\repos\Cs_Formation\05-01-Loops_MoreOrLessDoWhile\bin\Debug\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.dll
+C:\Users\jpi\source\repos\Cs_Formation\05-01-Loops_MoreOrLessDoWhile\bin\Debug\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.pdb
+C:\Users\jpi\source\repos\Cs_Formation\05-01-Loops_MoreOrLessDoWhile\obj\Debug\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\05-01-Loops_MoreOrLessDoWhile\obj\Debug\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\05-01-Loops_MoreOrLessDoWhile\obj\Debug\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.AssemblyInfo.cs
+C:\Users\jpi\source\repos\Cs_Formation\05-01-Loops_MoreOrLessDoWhile\obj\Debug\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.dll
+C:\Users\jpi\source\repos\Cs_Formation\05-01-Loops_MoreOrLessDoWhile\obj\Debug\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.pdb

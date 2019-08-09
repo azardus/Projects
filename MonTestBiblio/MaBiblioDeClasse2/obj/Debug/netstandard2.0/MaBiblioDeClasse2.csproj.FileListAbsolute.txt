@@ -1,0 +1,9 @@
+C:\Users\jpi\source\repos\MonTestBiblio\MaBiblioDeClasse2\bin\Debug\netstandard2.0\MaBiblioDeClasse2.deps.json
+C:\Users\jpi\source\repos\MonTestBiblio\MaBiblioDeClasse2\bin\Debug\netstandard2.0\MaBiblioDeClasse2.dll
+C:\Users\jpi\source\repos\MonTestBiblio\MaBiblioDeClasse2\bin\Debug\netstandard2.0\MaBiblioDeClasse2.pdb
+C:\Users\jpi\source\repos\MonTestBiblio\MaBiblioDeClasse2\obj\Debug\netstandard2.0\MaBiblioDeClasse2.csprojAssemblyReference.cache
+C:\Users\jpi\source\repos\MonTestBiblio\MaBiblioDeClasse2\obj\Debug\netstandard2.0\MaBiblioDeClasse2.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\MonTestBiblio\MaBiblioDeClasse2\obj\Debug\netstandard2.0\MaBiblioDeClasse2.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\MonTestBiblio\MaBiblioDeClasse2\obj\Debug\netstandard2.0\MaBiblioDeClasse2.AssemblyInfo.cs
+C:\Users\jpi\source\repos\MonTestBiblio\MaBiblioDeClasse2\obj\Debug\netstandard2.0\MaBiblioDeClasse2.dll
+C:\Users\jpi\source\repos\MonTestBiblio\MaBiblioDeClasse2\obj\Debug\netstandard2.0\MaBiblioDeClasse2.pdb

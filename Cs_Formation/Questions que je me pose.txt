@@ -1,0 +1,7 @@
+1- dans le dossier 01-Appel de classe.
+
+	Je ne comprend pas pourquoi je n'arrive pas a faire l'appel de 
+			Acme.collections => Example
+
+2- ds 04-Conditions
+	je n'arrive pas a fair emarcher instruction if ?

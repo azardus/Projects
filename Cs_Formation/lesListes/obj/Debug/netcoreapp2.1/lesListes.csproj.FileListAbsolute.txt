@@ -1,0 +1,11 @@
+C:\Users\jpi\source\repos\Traveaux pratiqque c\lesListes\bin\Debug\netcoreapp2.1\lesListes.deps.json
+C:\Users\jpi\source\repos\Traveaux pratiqque c\lesListes\bin\Debug\netcoreapp2.1\lesListes.runtimeconfig.json
+C:\Users\jpi\source\repos\Traveaux pratiqque c\lesListes\bin\Debug\netcoreapp2.1\lesListes.runtimeconfig.dev.json
+C:\Users\jpi\source\repos\Traveaux pratiqque c\lesListes\bin\Debug\netcoreapp2.1\lesListes.dll
+C:\Users\jpi\source\repos\Traveaux pratiqque c\lesListes\bin\Debug\netcoreapp2.1\lesListes.pdb
+C:\Users\jpi\source\repos\Traveaux pratiqque c\lesListes\obj\Debug\netcoreapp2.1\lesListes.csprojAssemblyReference.cache
+C:\Users\jpi\source\repos\Traveaux pratiqque c\lesListes\obj\Debug\netcoreapp2.1\lesListes.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\Traveaux pratiqque c\lesListes\obj\Debug\netcoreapp2.1\lesListes.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\Traveaux pratiqque c\lesListes\obj\Debug\netcoreapp2.1\lesListes.AssemblyInfo.cs
+C:\Users\jpi\source\repos\Traveaux pratiqque c\lesListes\obj\Debug\netcoreapp2.1\lesListes.dll
+C:\Users\jpi\source\repos\Traveaux pratiqque c\lesListes\obj\Debug\netcoreapp2.1\lesListes.pdb

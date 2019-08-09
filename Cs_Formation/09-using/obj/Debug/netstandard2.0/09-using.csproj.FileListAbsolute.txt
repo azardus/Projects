@@ -1,0 +1,8 @@
+C:\Users\jpi\source\repos\Cs_Formation\09-using\bin\Debug\netstandard2.0\09-using.deps.json
+C:\Users\jpi\source\repos\Cs_Formation\09-using\bin\Debug\netstandard2.0\09-using.dll
+C:\Users\jpi\source\repos\Cs_Formation\09-using\bin\Debug\netstandard2.0\09-using.pdb
+C:\Users\jpi\source\repos\Cs_Formation\09-using\obj\Debug\netstandard2.0\09-using.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\09-using\obj\Debug\netstandard2.0\09-using.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\09-using\obj\Debug\netstandard2.0\09-using.AssemblyInfo.cs
+C:\Users\jpi\source\repos\Cs_Formation\09-using\obj\Debug\netstandard2.0\09-using.dll
+C:\Users\jpi\source\repos\Cs_Formation\09-using\obj\Debug\netstandard2.0\09-using.pdb

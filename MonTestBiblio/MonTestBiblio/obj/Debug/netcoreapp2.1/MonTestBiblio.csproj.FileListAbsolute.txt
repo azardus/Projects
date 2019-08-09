@@ -1,0 +1,16 @@
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\bin\Debug\netcoreapp2.1\MonTestBiblio.deps.json
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\bin\Debug\netcoreapp2.1\MonTestBiblio.runtimeconfig.json
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\bin\Debug\netcoreapp2.1\MonTestBiblio.runtimeconfig.dev.json
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\bin\Debug\netcoreapp2.1\MonTestBiblio.dll
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\bin\Debug\netcoreapp2.1\MonTestBiblio.pdb
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\obj\Debug\netcoreapp2.1\MonTestBiblio.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\obj\Debug\netcoreapp2.1\MonTestBiblio.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\obj\Debug\netcoreapp2.1\MonTestBiblio.AssemblyInfo.cs
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\obj\Debug\netcoreapp2.1\MonTestBiblio.dll
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\obj\Debug\netcoreapp2.1\MonTestBiblio.pdb
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\bin\Debug\netcoreapp2.1\MaBiblioDeClasse.dll
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\bin\Debug\netcoreapp2.1\MaBiblioDeClasse.pdb
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\obj\Debug\netcoreapp2.1\MonTestBiblio.csprojAssemblyReference.cache
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\obj\Debug\netcoreapp2.1\MonTestBiblio.csproj.CopyComplete
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\bin\Debug\netcoreapp2.1\MaBiblioDeClasse2.dll
+C:\Users\jpi\source\repos\MonTestBiblio\MonTestBiblio\bin\Debug\netcoreapp2.1\MaBiblioDeClasse2.pdb

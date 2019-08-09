@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MonTestBiblio/1.0.0": {
+        "dependencies": {
+          "MaBiblioDeClasse": "1.0.0",
+          "MaBiblioDeClasse2": "1.0.0"
+        },
+        "runtime": {
+          "MonTestBiblio.dll": {}
+        }
+      },
+      "MaBiblioDeClasse/1.0.0": {
+        "runtime": {
+          "MaBiblioDeClasse.dll": {}
+        }
+      },
+      "MaBiblioDeClasse2/1.0.0": {
+        "runtime": {
+          "MaBiblioDeClasse2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MonTestBiblio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MaBiblioDeClasse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MaBiblioDeClasse2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

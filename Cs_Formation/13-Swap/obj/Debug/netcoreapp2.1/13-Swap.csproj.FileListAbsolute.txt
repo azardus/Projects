@@ -1,0 +1,10 @@
+C:\Users\jpi\source\repos\Cs_Formation\13-Swap\bin\Debug\netcoreapp2.1\13-Swap.deps.json
+C:\Users\jpi\source\repos\Cs_Formation\13-Swap\bin\Debug\netcoreapp2.1\13-Swap.runtimeconfig.json
+C:\Users\jpi\source\repos\Cs_Formation\13-Swap\bin\Debug\netcoreapp2.1\13-Swap.runtimeconfig.dev.json
+C:\Users\jpi\source\repos\Cs_Formation\13-Swap\bin\Debug\netcoreapp2.1\13-Swap.dll
+C:\Users\jpi\source\repos\Cs_Formation\13-Swap\bin\Debug\netcoreapp2.1\13-Swap.pdb
+C:\Users\jpi\source\repos\Cs_Formation\13-Swap\obj\Debug\netcoreapp2.1\13-Swap.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\13-Swap\obj\Debug\netcoreapp2.1\13-Swap.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\13-Swap\obj\Debug\netcoreapp2.1\13-Swap.AssemblyInfo.cs
+C:\Users\jpi\source\repos\Cs_Formation\13-Swap\obj\Debug\netcoreapp2.1\13-Swap.dll
+C:\Users\jpi\source\repos\Cs_Formation\13-Swap\obj\Debug\netcoreapp2.1\13-Swap.pdb

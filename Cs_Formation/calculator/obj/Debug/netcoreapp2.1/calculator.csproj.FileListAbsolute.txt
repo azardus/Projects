@@ -1,0 +1,11 @@
+C:\Users\jpi\source\repos\Cs_Formation\calculator\bin\Debug\netcoreapp2.1\calculator.deps.json
+C:\Users\jpi\source\repos\Cs_Formation\calculator\bin\Debug\netcoreapp2.1\calculator.runtimeconfig.json
+C:\Users\jpi\source\repos\Cs_Formation\calculator\bin\Debug\netcoreapp2.1\calculator.runtimeconfig.dev.json
+C:\Users\jpi\source\repos\Cs_Formation\calculator\bin\Debug\netcoreapp2.1\calculator.dll
+C:\Users\jpi\source\repos\Cs_Formation\calculator\bin\Debug\netcoreapp2.1\calculator.pdb
+C:\Users\jpi\source\repos\Cs_Formation\calculator\obj\Debug\netcoreapp2.1\calculator.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\calculator\obj\Debug\netcoreapp2.1\calculator.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\calculator\obj\Debug\netcoreapp2.1\calculator.AssemblyInfo.cs
+C:\Users\jpi\source\repos\Cs_Formation\calculator\obj\Debug\netcoreapp2.1\calculator.dll
+C:\Users\jpi\source\repos\Cs_Formation\calculator\obj\Debug\netcoreapp2.1\calculator.pdb
+C:\Users\jpi\source\repos\Cs_Formation\calculator\obj\Debug\netcoreapp2.1\calculator.csprojAssemblyReference.cache

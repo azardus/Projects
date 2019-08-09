@@ -1,0 +1,22 @@
+C:\Users\jpi\source\repos\Console_App_On_C\Console_App_On_C\bin\Debug\netcoreapp2.1\Console_App_On_C.deps.json
+C:\Users\jpi\source\repos\Console_App_On_C\Console_App_On_C\bin\Debug\netcoreapp2.1\Console_App_On_C.runtimeconfig.json
+C:\Users\jpi\source\repos\Console_App_On_C\Console_App_On_C\bin\Debug\netcoreapp2.1\Console_App_On_C.runtimeconfig.dev.json
+C:\Users\jpi\source\repos\Console_App_On_C\Console_App_On_C\bin\Debug\netcoreapp2.1\Console_App_On_C.dll
+C:\Users\jpi\source\repos\Console_App_On_C\Console_App_On_C\bin\Debug\netcoreapp2.1\Console_App_On_C.pdb
+C:\Users\jpi\source\repos\Console_App_On_C\Console_App_On_C\obj\Debug\netcoreapp2.1\Console_App_On_C.csprojAssemblyReference.cache
+C:\Users\jpi\source\repos\Console_App_On_C\Console_App_On_C\obj\Debug\netcoreapp2.1\Console_App_On_C.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\Console_App_On_C\Console_App_On_C\obj\Debug\netcoreapp2.1\Console_App_On_C.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\Console_App_On_C\Console_App_On_C\obj\Debug\netcoreapp2.1\Console_App_On_C.AssemblyInfo.cs
+C:\Users\jpi\source\repos\Console_App_On_C\Console_App_On_C\obj\Debug\netcoreapp2.1\Console_App_On_C.dll
+C:\Users\jpi\source\repos\Console_App_On_C\Console_App_On_C\obj\Debug\netcoreapp2.1\Console_App_On_C.pdb
+C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\Console_App_On_C.deps.json
+C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\Console_App_On_C.runtimeconfig.json
+C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\Console_App_On_C.runtimeconfig.dev.json
+C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\Console_App_On_C.dll
+C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\Console_App_On_C.pdb
+C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\Console_App_On_C.csprojAssemblyReference.cache
+C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\Console_App_On_C.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\Console_App_On_C.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\Console_App_On_C.AssemblyInfo.cs
+C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\Console_App_On_C.dll
+C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\Console_App_On_C.pdb

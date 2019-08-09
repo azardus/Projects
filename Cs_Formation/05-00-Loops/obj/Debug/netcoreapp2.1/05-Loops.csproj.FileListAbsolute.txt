@@ -1,0 +1,10 @@
+C:\Users\jpi\source\repos\FormationCs\05-00-Loops\bin\Debug\netcoreapp2.1\05-Loops.deps.json
+C:\Users\jpi\source\repos\FormationCs\05-00-Loops\bin\Debug\netcoreapp2.1\05-Loops.runtimeconfig.json
+C:\Users\jpi\source\repos\FormationCs\05-00-Loops\bin\Debug\netcoreapp2.1\05-Loops.runtimeconfig.dev.json
+C:\Users\jpi\source\repos\FormationCs\05-00-Loops\bin\Debug\netcoreapp2.1\05-Loops.dll
+C:\Users\jpi\source\repos\FormationCs\05-00-Loops\bin\Debug\netcoreapp2.1\05-Loops.pdb
+C:\Users\jpi\source\repos\FormationCs\05-00-Loops\obj\Debug\netcoreapp2.1\05-Loops.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\FormationCs\05-00-Loops\obj\Debug\netcoreapp2.1\05-Loops.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\FormationCs\05-00-Loops\obj\Debug\netcoreapp2.1\05-Loops.AssemblyInfo.cs
+C:\Users\jpi\source\repos\FormationCs\05-00-Loops\obj\Debug\netcoreapp2.1\05-Loops.dll
+C:\Users\jpi\source\repos\FormationCs\05-00-Loops\obj\Debug\netcoreapp2.1\05-Loops.pdb

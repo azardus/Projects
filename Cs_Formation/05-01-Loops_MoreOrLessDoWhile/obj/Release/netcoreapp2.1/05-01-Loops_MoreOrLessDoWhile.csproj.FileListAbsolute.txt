@@ -1,0 +1,3 @@
+C:\Users\jpi\source\repos\FormationCs\05-01-Loops_MoreOrLessDoWhile\obj\Release\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\FormationCs\05-01-Loops_MoreOrLessDoWhile\obj\Release\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\FormationCs\05-01-Loops_MoreOrLessDoWhile\obj\Release\netcoreapp2.1\05-01-Loops_MoreOrLessDoWhile.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\jpi\source\repos\Traveaux pratiqque c\Traveaux pratiqque c\bin\Debug\netcoreapp2.1\Traveaux pratiqque c.deps.json
+C:\Users\jpi\source\repos\Traveaux pratiqque c\Traveaux pratiqque c\bin\Debug\netcoreapp2.1\Traveaux pratiqque c.runtimeconfig.json
+C:\Users\jpi\source\repos\Traveaux pratiqque c\Traveaux pratiqque c\bin\Debug\netcoreapp2.1\Traveaux pratiqque c.runtimeconfig.dev.json
+C:\Users\jpi\source\repos\Traveaux pratiqque c\Traveaux pratiqque c\bin\Debug\netcoreapp2.1\Traveaux pratiqque c.dll
+C:\Users\jpi\source\repos\Traveaux pratiqque c\Traveaux pratiqque c\bin\Debug\netcoreapp2.1\Traveaux pratiqque c.pdb
+C:\Users\jpi\source\repos\Traveaux pratiqque c\Traveaux pratiqque c\obj\Debug\netcoreapp2.1\Traveaux pratiqque c.csprojAssemblyReference.cache
+C:\Users\jpi\source\repos\Traveaux pratiqque c\Traveaux pratiqque c\obj\Debug\netcoreapp2.1\Traveaux pratiqque c.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\Traveaux pratiqque c\Traveaux pratiqque c\obj\Debug\netcoreapp2.1\Traveaux pratiqque c.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\Traveaux pratiqque c\Traveaux pratiqque c\obj\Debug\netcoreapp2.1\Traveaux pratiqque c.AssemblyInfo.cs
+C:\Users\jpi\source\repos\Traveaux pratiqque c\Traveaux pratiqque c\obj\Debug\netcoreapp2.1\Traveaux pratiqque c.dll
+C:\Users\jpi\source\repos\Traveaux pratiqque c\Traveaux pratiqque c\obj\Debug\netcoreapp2.1\Traveaux pratiqque c.pdb

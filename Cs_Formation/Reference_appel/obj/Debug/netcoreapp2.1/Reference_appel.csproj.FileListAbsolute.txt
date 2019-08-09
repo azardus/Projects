@@ -1,0 +1,10 @@
+C:\Users\jpi\source\repos\Cs_Formation\Reference_appel\bin\Debug\netcoreapp2.1\Reference_appel.deps.json
+C:\Users\jpi\source\repos\Cs_Formation\Reference_appel\bin\Debug\netcoreapp2.1\Reference_appel.runtimeconfig.json
+C:\Users\jpi\source\repos\Cs_Formation\Reference_appel\bin\Debug\netcoreapp2.1\Reference_appel.runtimeconfig.dev.json
+C:\Users\jpi\source\repos\Cs_Formation\Reference_appel\bin\Debug\netcoreapp2.1\Reference_appel.dll
+C:\Users\jpi\source\repos\Cs_Formation\Reference_appel\bin\Debug\netcoreapp2.1\Reference_appel.pdb
+C:\Users\jpi\source\repos\Cs_Formation\Reference_appel\obj\Debug\netcoreapp2.1\Reference_appel.csproj.CoreCompileInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\Reference_appel\obj\Debug\netcoreapp2.1\Reference_appel.AssemblyInfoInputs.cache
+C:\Users\jpi\source\repos\Cs_Formation\Reference_appel\obj\Debug\netcoreapp2.1\Reference_appel.AssemblyInfo.cs
+C:\Users\jpi\source\repos\Cs_Formation\Reference_appel\obj\Debug\netcoreapp2.1\Reference_appel.dll
+C:\Users\jpi\source\repos\Cs_Formation\Reference_appel\obj\Debug\netcoreapp2.1\Reference_appel.pdb

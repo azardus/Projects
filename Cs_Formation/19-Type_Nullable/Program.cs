@@ -26,6 +26,12 @@ namespace _19_Type_Nullable
             Afficheur(3);
 
 
+            OBJECTIF: Voir les contributions dans le calendrier:
+
+modification de user.email dans git config --global "jeremie.pichot.pro@gmail.com"
+
+
+
         }
 
         // le Type Nullable est definie avec le "?"

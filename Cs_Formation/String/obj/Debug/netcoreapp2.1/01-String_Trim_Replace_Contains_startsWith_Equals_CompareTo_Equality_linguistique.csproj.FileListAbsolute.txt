@@ -1,21 +1,21 @@
-C:\Users\jpi\source\repos\Traveaux pratiqque c\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.deps.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.runtimeconfig.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.runtimeconfig.dev.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.dll
-C:\Users\jpi\source\repos\Traveaux pratiqque c\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.pdb
-C:\Users\jpi\source\repos\Traveaux pratiqque c\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csproj.CoreCompileInputs.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.AssemblyInfoInputs.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.AssemblyInfo.cs
-C:\Users\jpi\source\repos\Traveaux pratiqque c\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.dll
-C:\Users\jpi\source\repos\Traveaux pratiqque c\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.pdb
-C:\Users\jpi\source\repos\Cs_Formation\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.deps.json
-C:\Users\jpi\source\repos\Cs_Formation\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.runtimeconfig.json
-C:\Users\jpi\source\repos\Cs_Formation\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.runtimeconfig.dev.json
-C:\Users\jpi\source\repos\Cs_Formation\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.dll
-C:\Users\jpi\source\repos\Cs_Formation\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.pdb
-C:\Users\jpi\source\repos\Cs_Formation\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csprojAssemblyReference.cache
-C:\Users\jpi\source\repos\Cs_Formation\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csproj.CoreCompileInputs.cache
-C:\Users\jpi\source\repos\Cs_Formation\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.AssemblyInfoInputs.cache
-C:\Users\jpi\source\repos\Cs_Formation\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.AssemblyInfo.cs
-C:\Users\jpi\source\repos\Cs_Formation\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.dll
-C:\Users\jpi\source\repos\Cs_Formation\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.pdb
+C:/Users/jpi/source/repos/Traveaux pratiqque c/String/bin/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.deps.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/String/bin/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.runtimeconfig.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/String/bin/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.runtimeconfig.dev.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/String/bin/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.dll
+C:/Users/jpi/source/repos/Traveaux pratiqque c/String/bin/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.pdb
+C:/Users/jpi/source/repos/Traveaux pratiqque c/String/obj/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csproj.CoreCompileInputs.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/String/obj/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.AssemblyInfoInputs.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/String/obj/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.AssemblyInfo.cs
+C:/Users/jpi/source/repos/Traveaux pratiqque c/String/obj/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.dll
+C:/Users/jpi/source/repos/Traveaux pratiqque c/String/obj/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.pdb
+C:/Users/jpi/source/repos/Cs_Formation/String/bin/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.deps.json
+C:/Users/jpi/source/repos/Cs_Formation/String/bin/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.runtimeconfig.json
+C:/Users/jpi/source/repos/Cs_Formation/String/bin/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.runtimeconfig.dev.json
+C:/Users/jpi/source/repos/Cs_Formation/String/bin/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.dll
+C:/Users/jpi/source/repos/Cs_Formation/String/bin/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.pdb
+C:/Users/jpi/source/repos/Cs_Formation/String/obj/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csprojAssemblyReference.cache
+C:/Users/jpi/source/repos/Cs_Formation/String/obj/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csproj.CoreCompileInputs.cache
+C:/Users/jpi/source/repos/Cs_Formation/String/obj/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.AssemblyInfoInputs.cache
+C:/Users/jpi/source/repos/Cs_Formation/String/obj/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.AssemblyInfo.cs
+C:/Users/jpi/source/repos/Cs_Formation/String/obj/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.dll
+C:/Users/jpi/source/repos/Cs_Formation/String/obj/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.pdb

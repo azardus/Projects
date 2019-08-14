@@ -1,21 +1,21 @@
-C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.deps.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.runtimeconfig.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.runtimeconfig.dev.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.dll
-C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.pdb
-C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.csprojAssemblyReference.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.csproj.CoreCompileInputs.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.AssemblyInfoInputs.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.AssemblyInfo.cs
-C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.dll
-C:\Users\jpi\source\repos\Traveaux pratiqque c\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.pdb
-C:\Users\jpi\source\repos\Cs_Formation\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.deps.json
-C:\Users\jpi\source\repos\Cs_Formation\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.runtimeconfig.json
-C:\Users\jpi\source\repos\Cs_Formation\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.runtimeconfig.dev.json
-C:\Users\jpi\source\repos\Cs_Formation\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.dll
-C:\Users\jpi\source\repos\Cs_Formation\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.pdb
-C:\Users\jpi\source\repos\Cs_Formation\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.csproj.CoreCompileInputs.cache
-C:\Users\jpi\source\repos\Cs_Formation\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.AssemblyInfoInputs.cache
-C:\Users\jpi\source\repos\Cs_Formation\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.AssemblyInfo.cs
-C:\Users\jpi\source\repos\Cs_Formation\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.dll
-C:\Users\jpi\source\repos\Cs_Formation\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.pdb
+C:/Users/jpi/source/repos/Traveaux pratiqque c/00-JustePrix/Console_App_On_C/bin/Debug/netcoreapp2.1/05-04-Le_juste_prix.deps.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/00-JustePrix/Console_App_On_C/bin/Debug/netcoreapp2.1/05-04-Le_juste_prix.runtimeconfig.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/00-JustePrix/Console_App_On_C/bin/Debug/netcoreapp2.1/05-04-Le_juste_prix.runtimeconfig.dev.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/00-JustePrix/Console_App_On_C/bin/Debug/netcoreapp2.1/05-04-Le_juste_prix.dll
+C:/Users/jpi/source/repos/Traveaux pratiqque c/00-JustePrix/Console_App_On_C/bin/Debug/netcoreapp2.1/05-04-Le_juste_prix.pdb
+C:/Users/jpi/source/repos/Traveaux pratiqque c/00-JustePrix/Console_App_On_C/obj/Debug/netcoreapp2.1/05-04-Le_juste_prix.csprojAssemblyReference.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/00-JustePrix/Console_App_On_C/obj/Debug/netcoreapp2.1/05-04-Le_juste_prix.csproj.CoreCompileInputs.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/00-JustePrix/Console_App_On_C/obj/Debug/netcoreapp2.1/05-04-Le_juste_prix.AssemblyInfoInputs.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/00-JustePrix/Console_App_On_C/obj/Debug/netcoreapp2.1/05-04-Le_juste_prix.AssemblyInfo.cs
+C:/Users/jpi/source/repos/Traveaux pratiqque c/00-JustePrix/Console_App_On_C/obj/Debug/netcoreapp2.1/05-04-Le_juste_prix.dll
+C:/Users/jpi/source/repos/Traveaux pratiqque c/00-JustePrix/Console_App_On_C/obj/Debug/netcoreapp2.1/05-04-Le_juste_prix.pdb
+C:/Users/jpi/source/repos/Cs_Formation/00-JustePrix/Console_App_On_C/bin/Debug/netcoreapp2.1/05-04-Le_juste_prix.deps.json
+C:/Users/jpi/source/repos/Cs_Formation/00-JustePrix/Console_App_On_C/bin/Debug/netcoreapp2.1/05-04-Le_juste_prix.runtimeconfig.json
+C:/Users/jpi/source/repos/Cs_Formation/00-JustePrix/Console_App_On_C/bin/Debug/netcoreapp2.1/05-04-Le_juste_prix.runtimeconfig.dev.json
+C:/Users/jpi/source/repos/Cs_Formation/00-JustePrix/Console_App_On_C/bin/Debug/netcoreapp2.1/05-04-Le_juste_prix.dll
+C:/Users/jpi/source/repos/Cs_Formation/00-JustePrix/Console_App_On_C/bin/Debug/netcoreapp2.1/05-04-Le_juste_prix.pdb
+C:/Users/jpi/source/repos/Cs_Formation/00-JustePrix/Console_App_On_C/obj/Debug/netcoreapp2.1/05-04-Le_juste_prix.csproj.CoreCompileInputs.cache
+C:/Users/jpi/source/repos/Cs_Formation/00-JustePrix/Console_App_On_C/obj/Debug/netcoreapp2.1/05-04-Le_juste_prix.AssemblyInfoInputs.cache
+C:/Users/jpi/source/repos/Cs_Formation/00-JustePrix/Console_App_On_C/obj/Debug/netcoreapp2.1/05-04-Le_juste_prix.AssemblyInfo.cs
+C:/Users/jpi/source/repos/Cs_Formation/00-JustePrix/Console_App_On_C/obj/Debug/netcoreapp2.1/05-04-Le_juste_prix.dll
+C:/Users/jpi/source/repos/Cs_Formation/00-JustePrix/Console_App_On_C/obj/Debug/netcoreapp2.1/05-04-Le_juste_prix.pdb

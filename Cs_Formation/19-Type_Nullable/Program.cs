@@ -67,11 +67,12 @@ modification de user.email dans git config --global "jeremie.pichot.pro@gmail.co
 
     internal class Personne
     {
+        public string Prenom { get; set; }
     }
 
     public class Afficheur
     {
-        public class void Affiche( XObject o)
+        public void Affiche( XObject o)
         {
             Console.WriteLine("Afficheur d'objet :");
             Console.WriteLine("\tType : " + o.GetType());

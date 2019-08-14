@@ -1,21 +1,21 @@
-C:\Users\jpi\source\repos\Traveaux pratiqque c\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.deps.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.runtimeconfig.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.runtimeconfig.dev.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.dll
-C:\Users\jpi\source\repos\Traveaux pratiqque c\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.pdb
-C:\Users\jpi\source\repos\Traveaux pratiqque c\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.csprojAssemblyReference.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.csproj.CoreCompileInputs.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.AssemblyInfoInputs.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.AssemblyInfo.cs
-C:\Users\jpi\source\repos\Traveaux pratiqque c\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.dll
-C:\Users\jpi\source\repos\Traveaux pratiqque c\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.pdb
-C:\Users\jpi\source\repos\Cs_Formation\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.deps.json
-C:\Users\jpi\source\repos\Cs_Formation\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.runtimeconfig.json
-C:\Users\jpi\source\repos\Cs_Formation\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.runtimeconfig.dev.json
-C:\Users\jpi\source\repos\Cs_Formation\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.dll
-C:\Users\jpi\source\repos\Cs_Formation\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.pdb
-C:\Users\jpi\source\repos\Cs_Formation\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.csproj.CoreCompileInputs.cache
-C:\Users\jpi\source\repos\Cs_Formation\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.AssemblyInfoInputs.cache
-C:\Users\jpi\source\repos\Cs_Formation\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.AssemblyInfo.cs
-C:\Users\jpi\source\repos\Cs_Formation\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.dll
-C:\Users\jpi\source\repos\Cs_Formation\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.pdb
+C:/Users/jpi/source/repos/Traveaux pratiqque c/06-Collection/bin/Debug/netcoreapp2.1/07-Collection.deps.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/06-Collection/bin/Debug/netcoreapp2.1/07-Collection.runtimeconfig.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/06-Collection/bin/Debug/netcoreapp2.1/07-Collection.runtimeconfig.dev.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/06-Collection/bin/Debug/netcoreapp2.1/07-Collection.dll
+C:/Users/jpi/source/repos/Traveaux pratiqque c/06-Collection/bin/Debug/netcoreapp2.1/07-Collection.pdb
+C:/Users/jpi/source/repos/Traveaux pratiqque c/06-Collection/obj/Debug/netcoreapp2.1/07-Collection.csprojAssemblyReference.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/06-Collection/obj/Debug/netcoreapp2.1/07-Collection.csproj.CoreCompileInputs.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/06-Collection/obj/Debug/netcoreapp2.1/07-Collection.AssemblyInfoInputs.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/06-Collection/obj/Debug/netcoreapp2.1/07-Collection.AssemblyInfo.cs
+C:/Users/jpi/source/repos/Traveaux pratiqque c/06-Collection/obj/Debug/netcoreapp2.1/07-Collection.dll
+C:/Users/jpi/source/repos/Traveaux pratiqque c/06-Collection/obj/Debug/netcoreapp2.1/07-Collection.pdb
+C:/Users/jpi/source/repos/Cs_Formation/06-Collection/bin/Debug/netcoreapp2.1/07-Collection.deps.json
+C:/Users/jpi/source/repos/Cs_Formation/06-Collection/bin/Debug/netcoreapp2.1/07-Collection.runtimeconfig.json
+C:/Users/jpi/source/repos/Cs_Formation/06-Collection/bin/Debug/netcoreapp2.1/07-Collection.runtimeconfig.dev.json
+C:/Users/jpi/source/repos/Cs_Formation/06-Collection/bin/Debug/netcoreapp2.1/07-Collection.dll
+C:/Users/jpi/source/repos/Cs_Formation/06-Collection/bin/Debug/netcoreapp2.1/07-Collection.pdb
+C:/Users/jpi/source/repos/Cs_Formation/06-Collection/obj/Debug/netcoreapp2.1/07-Collection.csproj.CoreCompileInputs.cache
+C:/Users/jpi/source/repos/Cs_Formation/06-Collection/obj/Debug/netcoreapp2.1/07-Collection.AssemblyInfoInputs.cache
+C:/Users/jpi/source/repos/Cs_Formation/06-Collection/obj/Debug/netcoreapp2.1/07-Collection.AssemblyInfo.cs
+C:/Users/jpi/source/repos/Cs_Formation/06-Collection/obj/Debug/netcoreapp2.1/07-Collection.dll
+C:/Users/jpi/source/repos/Cs_Formation/06-Collection/obj/Debug/netcoreapp2.1/07-Collection.pdb

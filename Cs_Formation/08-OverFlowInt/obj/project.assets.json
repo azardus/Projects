@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\08-OverFlowInt\\08-OverFlowInt.csproj",
+      "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\08-OverFlowInt\\08-OverFlowInt.csproj",
       "projectName": "08-OverFlowInt",
-      "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\08-OverFlowInt\\08-OverFlowInt.csproj",
+      "projectPath": "D:\\repos\\Projets\\Cs_Formation\\08-OverFlowInt\\08-OverFlowInt.csproj",
       "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\08-OverFlowInt\\obj\\",
+      "outputPath": "D:\\repos\\Projets\\Cs_Formation\\08-OverFlowInt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

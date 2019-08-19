@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\exampleTryParse\\06-TryParse.csproj",
+      "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\exampleTryParse\\06-TryParse.csproj",
       "projectName": "06-TryParse",
-      "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\exampleTryParse\\06-TryParse.csproj",
+      "projectPath": "D:\\repos\\Projets\\Cs_Formation\\exampleTryParse\\06-TryParse.csproj",
       "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\exampleTryParse\\obj\\",
+      "outputPath": "D:\\repos\\Projets\\Cs_Formation\\exampleTryParse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

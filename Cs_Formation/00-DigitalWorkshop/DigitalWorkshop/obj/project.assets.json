@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\00-DigitalWorkshop\\DigitalWorkshop\\DigitalWorkshop.csproj",
+      "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\00-DigitalWorkshop\\DigitalWorkshop\\DigitalWorkshop.csproj",
       "projectName": "DigitalWorkshop",
-      "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\00-DigitalWorkshop\\DigitalWorkshop\\DigitalWorkshop.csproj",
+      "projectPath": "D:\\repos\\Projets\\Cs_Formation\\00-DigitalWorkshop\\DigitalWorkshop\\DigitalWorkshop.csproj",
       "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\00-DigitalWorkshop\\DigitalWorkshop\\obj\\",
+      "outputPath": "D:\\repos\\Projets\\Cs_Formation\\00-DigitalWorkshop\\DigitalWorkshop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

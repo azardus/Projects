@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\10-Using\\10-Using.csproj": {}
+    "D:\\repos\\Projets\\Cs_Formation\\10-Using\\10-Using.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\10-Using\\10-Using.csproj": {
+    "D:\\repos\\Projets\\Cs_Formation\\10-Using\\10-Using.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\10-Using\\10-Using.csproj",
+        "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\10-Using\\10-Using.csproj",
         "projectName": "10-Using",
-        "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\10-Using\\10-Using.csproj",
+        "projectPath": "D:\\repos\\Projets\\Cs_Formation\\10-Using\\10-Using.csproj",
         "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\10-Using\\obj\\",
+        "outputPath": "D:\\repos\\Projets\\Cs_Formation\\10-Using\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

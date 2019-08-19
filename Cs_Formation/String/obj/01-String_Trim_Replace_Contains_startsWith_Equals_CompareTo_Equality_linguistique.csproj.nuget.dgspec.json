@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\String\\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csproj": {}
+    "D:\\repos\\Projets\\Cs_Formation\\String\\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\String\\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csproj": {
+    "D:\\repos\\Projets\\Cs_Formation\\String\\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\String\\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csproj",
+        "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\String\\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csproj",
         "projectName": "01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique",
-        "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\String\\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csproj",
+        "projectPath": "D:\\repos\\Projets\\Cs_Formation\\String\\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csproj",
         "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\String\\obj\\",
+        "outputPath": "D:\\repos\\Projets\\Cs_Formation\\String\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

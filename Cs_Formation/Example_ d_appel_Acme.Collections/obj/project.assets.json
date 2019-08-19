@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\Example_ d_appel_Acme.Collections\\Example_ d_appel_Acme.Collections.csproj",
+      "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\Example_ d_appel_Acme.Collections\\Example_ d_appel_Acme.Collections.csproj",
       "projectName": "Example_ d_appel_Acme.Collections",
-      "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\Example_ d_appel_Acme.Collections\\Example_ d_appel_Acme.Collections.csproj",
+      "projectPath": "D:\\repos\\Projets\\Cs_Formation\\Example_ d_appel_Acme.Collections\\Example_ d_appel_Acme.Collections.csproj",
       "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\Example_ d_appel_Acme.Collections\\obj\\",
+      "outputPath": "D:\\repos\\Projets\\Cs_Formation\\Example_ d_appel_Acme.Collections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\05- Suite de Fibonacci\\05-05-Suite de Fibonacci.csproj": {}
+    "D:\\repos\\Projets\\Cs_Formation\\05- Suite de Fibonacci\\05-05-Suite de Fibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\05- Suite de Fibonacci\\05-05-Suite de Fibonacci.csproj": {
+    "D:\\repos\\Projets\\Cs_Formation\\05- Suite de Fibonacci\\05-05-Suite de Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\05- Suite de Fibonacci\\05-05-Suite de Fibonacci.csproj",
+        "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\05- Suite de Fibonacci\\05-05-Suite de Fibonacci.csproj",
         "projectName": "05-05-Suite de Fibonacci",
-        "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\05- Suite de Fibonacci\\05-05-Suite de Fibonacci.csproj",
+        "projectPath": "D:\\repos\\Projets\\Cs_Formation\\05- Suite de Fibonacci\\05-05-Suite de Fibonacci.csproj",
         "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\05- Suite de Fibonacci\\obj\\",
+        "outputPath": "D:\\repos\\Projets\\Cs_Formation\\05- Suite de Fibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

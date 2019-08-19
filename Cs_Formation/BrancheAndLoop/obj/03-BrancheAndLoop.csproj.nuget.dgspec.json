@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\BrancheAndLoop\\03-BrancheAndLoop.csproj": {}
+    "D:\\repos\\Projets\\Cs_Formation\\BrancheAndLoop\\03-BrancheAndLoop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\BrancheAndLoop\\03-BrancheAndLoop.csproj": {
+    "D:\\repos\\Projets\\Cs_Formation\\BrancheAndLoop\\03-BrancheAndLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\BrancheAndLoop\\03-BrancheAndLoop.csproj",
+        "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\BrancheAndLoop\\03-BrancheAndLoop.csproj",
         "projectName": "03-BrancheAndLoop",
-        "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\BrancheAndLoop\\03-BrancheAndLoop.csproj",
+        "projectPath": "D:\\repos\\Projets\\Cs_Formation\\BrancheAndLoop\\03-BrancheAndLoop.csproj",
         "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\BrancheAndLoop\\obj\\",
+        "outputPath": "D:\\repos\\Projets\\Cs_Formation\\BrancheAndLoop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

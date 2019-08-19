@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\05-02-Loops_MoreOrLessFor\\05-02-Loops_MoreOrLessFor.csproj",
+      "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\05-02-Loops_MoreOrLessFor\\05-02-Loops_MoreOrLessFor.csproj",
       "projectName": "05-02-Loops_MoreOrLessFor",
-      "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\05-02-Loops_MoreOrLessFor\\05-02-Loops_MoreOrLessFor.csproj",
+      "projectPath": "D:\\repos\\Projets\\Cs_Formation\\05-02-Loops_MoreOrLessFor\\05-02-Loops_MoreOrLessFor.csproj",
       "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\05-02-Loops_MoreOrLessFor\\obj\\",
+      "outputPath": "D:\\repos\\Projets\\Cs_Formation\\05-02-Loops_MoreOrLessFor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

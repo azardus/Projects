@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\17-Class\\17-Class.csproj",
+      "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\17-Class\\17-Class.csproj",
       "projectName": "17-Class",
-      "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\17-Class\\17-Class.csproj",
+      "projectPath": "D:\\repos\\Projets\\Cs_Formation\\17-Class\\17-Class.csproj",
       "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\17-Class\\obj\\",
+      "outputPath": "D:\\repos\\Projets\\Cs_Formation\\17-Class\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

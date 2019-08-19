@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\02-ObjectMoto\\Entainement\\00-00-Entainement_obj_moto.csproj",
+      "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\02-ObjectMoto\\Entainement\\00-00-Entainement_obj_moto.csproj",
       "projectName": "00-00-Entainement_obj_moto",
-      "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\02-ObjectMoto\\Entainement\\00-00-Entainement_obj_moto.csproj",
+      "projectPath": "D:\\repos\\Projets\\Cs_Formation\\02-ObjectMoto\\Entainement\\00-00-Entainement_obj_moto.csproj",
       "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\02-ObjectMoto\\Entainement\\obj\\",
+      "outputPath": "D:\\repos\\Projets\\Cs_Formation\\02-ObjectMoto\\Entainement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

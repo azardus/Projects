@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\Certif_C\\Certif_C\\00-00-Certif_Cs.csproj",
+      "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\Certif_C\\Certif_C\\00-00-Certif_Cs.csproj",
       "projectName": "00-00-Certif_Cs",
-      "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\Certif_C\\Certif_C\\00-00-Certif_Cs.csproj",
+      "projectPath": "D:\\repos\\Projets\\Cs_Formation\\Certif_C\\Certif_C\\00-00-Certif_Cs.csproj",
       "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\Certif_C\\Certif_C\\obj\\",
+      "outputPath": "D:\\repos\\Projets\\Cs_Formation\\Certif_C\\Certif_C\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\00-JustePrix\\Console_App_On_C\\05-04-Le_juste_prix.csproj",
+      "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\00-JustePrix\\Console_App_On_C\\05-04-Le_juste_prix.csproj",
       "projectName": "05-04-Le_juste_prix",
-      "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\00-JustePrix\\Console_App_On_C\\05-04-Le_juste_prix.csproj",
+      "projectPath": "D:\\repos\\Projets\\Cs_Formation\\00-JustePrix\\Console_App_On_C\\05-04-Le_juste_prix.csproj",
       "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\00-JustePrix\\Console_App_On_C\\obj\\",
+      "outputPath": "D:\\repos\\Projets\\Cs_Formation\\00-JustePrix\\Console_App_On_C\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\02-Array\\02-00-Array.csproj",
+      "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\02-Array\\02-00-Array.csproj",
       "projectName": "02-00-Array",
-      "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\02-Array\\02-00-Array.csproj",
+      "projectPath": "D:\\repos\\Projets\\Cs_Formation\\02-Array\\02-00-Array.csproj",
       "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\02-Array\\obj\\",
+      "outputPath": "D:\\repos\\Projets\\Cs_Formation\\02-Array\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

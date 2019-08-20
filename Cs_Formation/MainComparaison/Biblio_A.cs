@@ -5,20 +5,43 @@ using System.Collections;
 
 namespace MainComparaison
 {
-    class Biblio_A
+    public class Biblio
     {
-        //private ArrayListe<Biblio_A> premiereListe { "jeremie":37,}
-        private string nameA;
-        private int ageA;
+        private List<Personne> premiereListe;
+
+
+        public Biblio()
+        {
+            this.premiereListe = new List<Personne>();
+            Personne personne = new Personne("jeremie", 37);
+            personne.reName("titi");
+            premiereListe.Add(personne);
+
+            Personne personne2 = new Personne("antoine", 42);
+            premiereListe.Add(personne2);
+
+            premiereListe.Add(new Personne("benj",25));
+
+        }
+
 
     }
-    public Biblio()
+    public class Personne
     {
-        
+        private string _name;
+        private int _age;
+
+        public Personne(string name, int age)
+        {
+            this._name = name;
+            this._age = age;
+        }
+
+        public void reName(string name)
+        {
+           this._name = name;   
+        }
     }
 
-    public string GetName(string name)
-    {
-        this.n
-    }
+
 }

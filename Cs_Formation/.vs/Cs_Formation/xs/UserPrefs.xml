@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AF3C8B54-5280-4D87-8212-97AA353BDFC2}|Default">
+  <MonoDevelop.Ide.ItemProperties.01-Variables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="19-Type_Nullable/Program.cs">
+    <Files>
+      <File FileName="19-Type_Nullable/Program.cs" Line="26" Column="26" />
+      <File FileName="lesListes/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cs_Formation" expanded="True">
+            <Node name="02-01-lesListes" expanded="True" />
+            <Node name="19-Type_Nullable" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.19-Type__Nullable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jeremie/Projects/Cs_Formation/19-Type_Nullable/Program.cs" relfile="19-Type_Nullable/Program.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

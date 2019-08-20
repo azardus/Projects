@@ -14,11 +14,15 @@ namespace MainComparaison
         {
             this.premiereListe = new List<Personne>();
             Personne personne = new Personne("jeremie", 37);
+
+            // ici apres le .rename: equivaut a this de l'instance de personne avec un petit p
             personne.reName("titi");
             premiereListe.Add(personne);
 
             Personne personne2 = new Personne("antoine", 42);
             premiereListe.Add(personne2);
+            personne2.setAge(30);
+
 
             premiereListe.Add(new Personne("benj",25));
 
@@ -40,6 +44,11 @@ namespace MainComparaison
         public void reName(string name)
         {
            this._name = name;   
+        }
+
+        public void setAge(int age)
+        {
+            this._age = age;
         }
     }
 

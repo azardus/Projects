@@ -1,0 +1,11 @@
+D:\repos\Projets\Cs_Formation\MainComparaison\bin\Debug\netcoreapp2.1\MainComparaison.deps.json
+D:\repos\Projets\Cs_Formation\MainComparaison\bin\Debug\netcoreapp2.1\MainComparaison.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\MainComparaison\bin\Debug\netcoreapp2.1\MainComparaison.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\MainComparaison\bin\Debug\netcoreapp2.1\MainComparaison.dll
+D:\repos\Projets\Cs_Formation\MainComparaison\bin\Debug\netcoreapp2.1\MainComparaison.pdb
+D:\repos\Projets\Cs_Formation\MainComparaison\obj\Debug\netcoreapp2.1\MainComparaison.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\MainComparaison\obj\Debug\netcoreapp2.1\MainComparaison.csproj.CoreCompileInputs.cache
+D:\repos\Projets\Cs_Formation\MainComparaison\obj\Debug\netcoreapp2.1\MainComparaison.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\MainComparaison\obj\Debug\netcoreapp2.1\MainComparaison.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\MainComparaison\obj\Debug\netcoreapp2.1\MainComparaison.dll
+D:\repos\Projets\Cs_Formation\MainComparaison\obj\Debug\netcoreapp2.1\MainComparaison.pdb

@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+//using System.Collections;
 using System.Collections.Generic;
 //using System.Diagnostics;
 
@@ -77,15 +79,15 @@ namespace lesListes
 
 
         }
-        public class ArrayList
+        public class Person
         {
             private int _phoneNumber;
             private string _name;
 
-            public int GetPhoneNumber(){ return this._phoneNumber; }
+            public int GetPhoneNumber() { return this._phoneNumber; }
             public void SetPhoneNumber(int phone) { this._phoneNumber = phone; }
             public void AddPhoneNumber(int phone) { this._phoneNumber = phone; }
-            public void deletePhoneNumber (int phone) { this._phoneNumber = phone; }
+            public void deletePhoneNumber(int phone) { this._phoneNumber = phone; }
 
 
             public string GetName() { return this._name; }

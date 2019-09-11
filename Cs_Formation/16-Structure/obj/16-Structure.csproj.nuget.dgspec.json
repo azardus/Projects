@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\16-Structure\\16-Structure.csproj": {}
+    "D:\\repos\\Projets\\Cs_Formation\\16-Structure\\16-Structure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\16-Structure\\16-Structure.csproj": {
+    "D:\\repos\\Projets\\Cs_Formation\\16-Structure\\16-Structure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\16-Structure\\16-Structure.csproj",
+        "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\16-Structure\\16-Structure.csproj",
         "projectName": "16-Structure",
-        "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\16-Structure\\16-Structure.csproj",
+        "projectPath": "D:\\repos\\Projets\\Cs_Formation\\16-Structure\\16-Structure.csproj",
         "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\16-Structure\\obj\\",
+        "outputPath": "D:\\repos\\Projets\\Cs_Formation\\16-Structure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

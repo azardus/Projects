@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+//using System.Collections;
 using System.Collections.Generic;
 //using System.Diagnostics;
 
@@ -11,7 +13,7 @@ namespace lesListes
             Console.WriteLine("Création de listes :");
             Console.WriteLine("=====================");
 
-            var namesListe = new List<String> {"jeremie", "antoine", "patricia"};
+            var namesListe = new List<String> { "jeremie", "antoine", "patricia" };
 
             namesListe.Add("laurence");
             namesListe.Add("martine");
@@ -42,6 +44,57 @@ namespace lesListes
                 Console.WriteLine($"La liste triée avec la fonction sort donne: {var2}");
             }
             Console.ReadKey();
+
+            Console.WriteLine("Création de Array :");
+            Console.WriteLine("===================");
+
+            int[] arrayInts = new int[3];
+            arrayInts[0] = 4;
+            arrayInts[1] = 5;
+            arrayInts[2] = 6;
+
+            Console.WriteLine("Création de ArrayListes :");
+            Console.WriteLine("=========================");
+
+            // Detient un tableau object
+
+            ArrayList arrayList = new ArrayList();
+            arrayList.
+
+
+            Console.WriteLine("Création String collection:");
+            Console.WriteLine("===========================");
+
+            // C est un liste de string
+
+            Console.WriteLine("Création double collection :");
+            Console.WriteLine("============================");
+
+            //
+
+            Console.WriteLine("Création list generique :");
+            Console.WriteLine("=========================");
+
+            // Type de classe genenrique
+
+
         }
+        public class Person
+        {
+            private int _phoneNumber;
+            private string _name;
+
+            public int GetPhoneNumber() { return this._phoneNumber; }
+            public void SetPhoneNumber(int phone) { this._phoneNumber = phone; }
+            public void AddPhoneNumber(int phone) { this._phoneNumber = phone; }
+            public void deletePhoneNumber(int phone) { this._phoneNumber = phone; }
+
+
+            public string GetName() { return this._name; }
+            public void AddName(string name) { this._name = name; }
+        }
+
+
+
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\13-Swap\\13-Swap.csproj": {}
+    "D:\\repos\\Projets\\Cs_Formation\\13-Swap\\13-Swap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\13-Swap\\13-Swap.csproj": {
+    "D:\\repos\\Projets\\Cs_Formation\\13-Swap\\13-Swap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\13-Swap\\13-Swap.csproj",
+        "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\13-Swap\\13-Swap.csproj",
         "projectName": "13-Swap",
-        "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\13-Swap\\13-Swap.csproj",
+        "projectPath": "D:\\repos\\Projets\\Cs_Formation\\13-Swap\\13-Swap.csproj",
         "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\13-Swap\\obj\\",
+        "outputPath": "D:\\repos\\Projets\\Cs_Formation\\13-Swap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

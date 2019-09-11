@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\lesListes\\02-01-lesListes.csproj": {}
+    "D:\\repos\\Projets\\Cs_Formation\\lesListes\\02-01-lesListes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\lesListes\\02-01-lesListes.csproj": {
+    "D:\\repos\\Projets\\Cs_Formation\\lesListes\\02-01-lesListes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\lesListes\\02-01-lesListes.csproj",
+        "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\lesListes\\02-01-lesListes.csproj",
         "projectName": "02-01-lesListes",
-        "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\lesListes\\02-01-lesListes.csproj",
+        "projectPath": "D:\\repos\\Projets\\Cs_Formation\\lesListes\\02-01-lesListes.csproj",
         "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\lesListes\\obj\\",
+        "outputPath": "D:\\repos\\Projets\\Cs_Formation\\lesListes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

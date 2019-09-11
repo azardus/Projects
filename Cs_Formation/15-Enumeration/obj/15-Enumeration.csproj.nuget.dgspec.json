@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\15-Enumeration\\15-Enumeration.csproj": {}
+    "D:\\repos\\Projets\\Cs_Formation\\15-Enumeration\\15-Enumeration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\15-Enumeration\\15-Enumeration.csproj": {
+    "D:\\repos\\Projets\\Cs_Formation\\15-Enumeration\\15-Enumeration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\15-Enumeration\\15-Enumeration.csproj",
+        "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\15-Enumeration\\15-Enumeration.csproj",
         "projectName": "15-Enumeration",
-        "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\15-Enumeration\\15-Enumeration.csproj",
+        "projectPath": "D:\\repos\\Projets\\Cs_Formation\\15-Enumeration\\15-Enumeration.csproj",
         "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\15-Enumeration\\obj\\",
+        "outputPath": "D:\\repos\\Projets\\Cs_Formation\\15-Enumeration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

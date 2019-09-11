@@ -1,0 +1,12 @@
+D:\SoftFluent DIGITAL\Workshop\ExerciceJeremie\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.exe
+D:\SoftFluent DIGITAL\Workshop\ExerciceJeremie\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.deps.json
+D:\SoftFluent DIGITAL\Workshop\ExerciceJeremie\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.runtimeconfig.json
+D:\SoftFluent DIGITAL\Workshop\ExerciceJeremie\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.runtimeconfig.dev.json
+D:\SoftFluent DIGITAL\Workshop\ExerciceJeremie\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.dll
+D:\SoftFluent DIGITAL\Workshop\ExerciceJeremie\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.pdb
+D:\SoftFluent DIGITAL\Workshop\ExerciceJeremie\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.csprojAssemblyReference.cache
+D:\SoftFluent DIGITAL\Workshop\ExerciceJeremie\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.csproj.CoreCompileInputs.cache
+D:\SoftFluent DIGITAL\Workshop\ExerciceJeremie\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.AssemblyInfoInputs.cache
+D:\SoftFluent DIGITAL\Workshop\ExerciceJeremie\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.AssemblyInfo.cs
+D:\SoftFluent DIGITAL\Workshop\ExerciceJeremie\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.dll
+D:\SoftFluent DIGITAL\Workshop\ExerciceJeremie\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.pdb

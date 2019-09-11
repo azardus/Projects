@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\01-Variables\\01-Variables.csproj": {}
+    "D:\\repos\\Projets\\Cs_Formation\\01-Variables\\01-Variables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\01-Variables\\01-Variables.csproj": {
+    "D:\\repos\\Projets\\Cs_Formation\\01-Variables\\01-Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\01-Variables\\01-Variables.csproj",
+        "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\01-Variables\\01-Variables.csproj",
         "projectName": "01-Variables",
-        "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\01-Variables\\01-Variables.csproj",
+        "projectPath": "D:\\repos\\Projets\\Cs_Formation\\01-Variables\\01-Variables.csproj",
         "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\01-Variables\\obj\\",
+        "outputPath": "D:\\repos\\Projets\\Cs_Formation\\01-Variables\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

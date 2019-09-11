@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\06-Collection\\07-Collection.csproj": {}
+    "D:\\repos\\Projets\\Cs_Formation\\06-Collection\\07-Collection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\06-Collection\\07-Collection.csproj": {
+    "D:\\repos\\Projets\\Cs_Formation\\06-Collection\\07-Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\06-Collection\\07-Collection.csproj",
+        "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\06-Collection\\07-Collection.csproj",
         "projectName": "07-Collection",
-        "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\06-Collection\\07-Collection.csproj",
+        "projectPath": "D:\\repos\\Projets\\Cs_Formation\\06-Collection\\07-Collection.csproj",
         "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\06-Collection\\obj\\",
+        "outputPath": "D:\\repos\\Projets\\Cs_Formation\\06-Collection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

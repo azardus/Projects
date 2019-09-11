@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\ManipulationDesNombresIntergerEtFloat\\02- ManipulationDesNombresIntergerEtDouble.csproj": {}
+    "D:\\repos\\Projets\\Cs_Formation\\ManipulationDesNombresIntergerEtFloat\\02- ManipulationDesNombresIntergerEtDouble.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\ManipulationDesNombresIntergerEtFloat\\02- ManipulationDesNombresIntergerEtDouble.csproj": {
+    "D:\\repos\\Projets\\Cs_Formation\\ManipulationDesNombresIntergerEtFloat\\02- ManipulationDesNombresIntergerEtDouble.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\ManipulationDesNombresIntergerEtFloat\\02- ManipulationDesNombresIntergerEtDouble.csproj",
+        "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\ManipulationDesNombresIntergerEtFloat\\02- ManipulationDesNombresIntergerEtDouble.csproj",
         "projectName": "02- ManipulationDesNombresIntergerEtDouble",
-        "projectPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\ManipulationDesNombresIntergerEtFloat\\02- ManipulationDesNombresIntergerEtDouble.csproj",
+        "projectPath": "D:\\repos\\Projets\\Cs_Formation\\ManipulationDesNombresIntergerEtFloat\\02- ManipulationDesNombresIntergerEtDouble.csproj",
         "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpi\\source\\repos\\Cs_Formation\\ManipulationDesNombresIntergerEtFloat\\obj\\",
+        "outputPath": "D:\\repos\\Projets\\Cs_Formation\\ManipulationDesNombresIntergerEtFloat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

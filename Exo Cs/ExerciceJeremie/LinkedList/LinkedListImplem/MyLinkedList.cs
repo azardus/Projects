@@ -14,7 +14,7 @@ namespace LinkedListImplem
         /// <returns>The first element of the list</returns>
         public object GetFirst()
         {
-            return default(object);
+            return this._begin.GetObject();
         }
 
         /// <summary>
@@ -23,7 +23,13 @@ namespace LinkedListImplem
         /// <returns>The last element</returns>
         public object GetLast()
         {
-            return default(object);
+            MyNode i;
+            for ( i = this._begin ; i.GetNext() != null ; i = i.GetNext() )
+            {
+
+            }
+
+            return i.GetObject();
         }
 
         /// <summary>
@@ -32,7 +38,14 @@ namespace LinkedListImplem
         /// <param name="obj">object to insert</param>
         public void PushBack(object obj)
         {
+            MyNode i;
+            for (i = this._begin ; i.GetNext() != null ; i = i.GetNext() )
+            {
 
+            }
+             object obj = i.GetObject();
+
+            //object obj = GetLast();
         }
 
         /// <summary>

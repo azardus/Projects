@@ -1,0 +1,11 @@
+D:\repos\Projets\Exo Cs\ExerciceJeremie\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.deps.json
+D:\repos\Projets\Exo Cs\ExerciceJeremie\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.runtimeconfig.json
+D:\repos\Projets\Exo Cs\ExerciceJeremie\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.runtimeconfig.dev.json
+D:\repos\Projets\Exo Cs\ExerciceJeremie\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.dll
+D:\repos\Projets\Exo Cs\ExerciceJeremie\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.pdb
+D:\repos\Projets\Exo Cs\ExerciceJeremie\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.csprojAssemblyReference.cache
+D:\repos\Projets\Exo Cs\ExerciceJeremie\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.csproj.CoreCompileInputs.cache
+D:\repos\Projets\Exo Cs\ExerciceJeremie\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.AssemblyInfoInputs.cache
+D:\repos\Projets\Exo Cs\ExerciceJeremie\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.AssemblyInfo.cs
+D:\repos\Projets\Exo Cs\ExerciceJeremie\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.dll
+D:\repos\Projets\Exo Cs\ExerciceJeremie\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.pdb

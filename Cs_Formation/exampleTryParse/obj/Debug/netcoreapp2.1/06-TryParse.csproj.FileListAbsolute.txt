@@ -1,22 +1,22 @@
-C:\Users\jpi\source\repos\Traveaux pratiqque c\03-MoreOrLess\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.deps.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\03-MoreOrLess\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.runtimeconfig.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\03-MoreOrLess\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.runtimeconfig.dev.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\03-MoreOrLess\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.dll
-C:\Users\jpi\source\repos\Traveaux pratiqque c\03-MoreOrLess\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.pdb
-C:\Users\jpi\source\repos\Traveaux pratiqque c\03-MoreOrLess\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.csprojAssemblyReference.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\03-MoreOrLess\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.csproj.CoreCompileInputs.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\03-MoreOrLess\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.AssemblyInfoInputs.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\03-MoreOrLess\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.AssemblyInfo.cs
-C:\Users\jpi\source\repos\Traveaux pratiqque c\03-MoreOrLess\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.dll
-C:\Users\jpi\source\repos\Traveaux pratiqque c\03-MoreOrLess\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.pdb
-C:\Users\jpi\source\repos\Cs_Formation\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.deps.json
-C:\Users\jpi\source\repos\Cs_Formation\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.runtimeconfig.json
-C:\Users\jpi\source\repos\Cs_Formation\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.runtimeconfig.dev.json
-C:\Users\jpi\source\repos\Cs_Formation\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.dll
-C:\Users\jpi\source\repos\Cs_Formation\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.pdb
-C:\Users\jpi\source\repos\Cs_Formation\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.csprojAssemblyReference.cache
-C:\Users\jpi\source\repos\Cs_Formation\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.csproj.CoreCompileInputs.cache
-C:\Users\jpi\source\repos\Cs_Formation\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.AssemblyInfoInputs.cache
-C:\Users\jpi\source\repos\Cs_Formation\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.AssemblyInfo.cs
-C:\Users\jpi\source\repos\Cs_Formation\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.dll
-C:\Users\jpi\source\repos\Cs_Formation\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.pdb
+C:/Users/jpi/source/repos/Traveaux pratiqque c/03-MoreOrLess/exampleTryParse/bin/Debug/netcoreapp2.1/06-TryParse.deps.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/03-MoreOrLess/exampleTryParse/bin/Debug/netcoreapp2.1/06-TryParse.runtimeconfig.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/03-MoreOrLess/exampleTryParse/bin/Debug/netcoreapp2.1/06-TryParse.runtimeconfig.dev.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/03-MoreOrLess/exampleTryParse/bin/Debug/netcoreapp2.1/06-TryParse.dll
+C:/Users/jpi/source/repos/Traveaux pratiqque c/03-MoreOrLess/exampleTryParse/bin/Debug/netcoreapp2.1/06-TryParse.pdb
+C:/Users/jpi/source/repos/Traveaux pratiqque c/03-MoreOrLess/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.csprojAssemblyReference.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/03-MoreOrLess/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.csproj.CoreCompileInputs.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/03-MoreOrLess/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.AssemblyInfoInputs.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/03-MoreOrLess/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.AssemblyInfo.cs
+C:/Users/jpi/source/repos/Traveaux pratiqque c/03-MoreOrLess/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.dll
+C:/Users/jpi/source/repos/Traveaux pratiqque c/03-MoreOrLess/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.pdb
+C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/bin/Debug/netcoreapp2.1/06-TryParse.deps.json
+C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/bin/Debug/netcoreapp2.1/06-TryParse.runtimeconfig.json
+C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/bin/Debug/netcoreapp2.1/06-TryParse.runtimeconfig.dev.json
+C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/bin/Debug/netcoreapp2.1/06-TryParse.dll
+C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/bin/Debug/netcoreapp2.1/06-TryParse.pdb
+C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.csprojAssemblyReference.cache
+C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.csproj.CoreCompileInputs.cache
+C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.AssemblyInfoInputs.cache
+C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.AssemblyInfo.cs
+C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.dll
+C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.pdb

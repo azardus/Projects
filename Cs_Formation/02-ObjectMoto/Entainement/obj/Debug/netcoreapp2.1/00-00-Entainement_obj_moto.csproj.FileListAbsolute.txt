@@ -1,21 +1,21 @@
-C:\Users\jpi\source\repos\Traveaux pratiqque c\02-ObjectMoto\Entainement\bin\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.deps.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\02-ObjectMoto\Entainement\bin\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.runtimeconfig.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\02-ObjectMoto\Entainement\bin\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.runtimeconfig.dev.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\02-ObjectMoto\Entainement\bin\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.dll
-C:\Users\jpi\source\repos\Traveaux pratiqque c\02-ObjectMoto\Entainement\bin\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.pdb
-C:\Users\jpi\source\repos\Traveaux pratiqque c\02-ObjectMoto\Entainement\obj\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.csproj.CoreCompileInputs.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\02-ObjectMoto\Entainement\obj\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.AssemblyInfoInputs.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\02-ObjectMoto\Entainement\obj\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.AssemblyInfo.cs
-C:\Users\jpi\source\repos\Traveaux pratiqque c\02-ObjectMoto\Entainement\obj\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.dll
-C:\Users\jpi\source\repos\Traveaux pratiqque c\02-ObjectMoto\Entainement\obj\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.pdb
-C:\Users\jpi\source\repos\Cs_Formation\02-ObjectMoto\Entainement\bin\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.deps.json
-C:\Users\jpi\source\repos\Cs_Formation\02-ObjectMoto\Entainement\bin\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.runtimeconfig.json
-C:\Users\jpi\source\repos\Cs_Formation\02-ObjectMoto\Entainement\bin\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.runtimeconfig.dev.json
-C:\Users\jpi\source\repos\Cs_Formation\02-ObjectMoto\Entainement\bin\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.dll
-C:\Users\jpi\source\repos\Cs_Formation\02-ObjectMoto\Entainement\bin\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.pdb
-C:\Users\jpi\source\repos\Cs_Formation\02-ObjectMoto\Entainement\obj\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.csprojAssemblyReference.cache
-C:\Users\jpi\source\repos\Cs_Formation\02-ObjectMoto\Entainement\obj\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.csproj.CoreCompileInputs.cache
-C:\Users\jpi\source\repos\Cs_Formation\02-ObjectMoto\Entainement\obj\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.AssemblyInfoInputs.cache
-C:\Users\jpi\source\repos\Cs_Formation\02-ObjectMoto\Entainement\obj\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.AssemblyInfo.cs
-C:\Users\jpi\source\repos\Cs_Formation\02-ObjectMoto\Entainement\obj\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.dll
-C:\Users\jpi\source\repos\Cs_Formation\02-ObjectMoto\Entainement\obj\Debug\netcoreapp2.1\00-00-Entainement_obj_moto.pdb
+C:/Users/jpi/source/repos/Traveaux pratiqque c/02-ObjectMoto/Entainement/bin/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.deps.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/02-ObjectMoto/Entainement/bin/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.runtimeconfig.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/02-ObjectMoto/Entainement/bin/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.runtimeconfig.dev.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/02-ObjectMoto/Entainement/bin/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.dll
+C:/Users/jpi/source/repos/Traveaux pratiqque c/02-ObjectMoto/Entainement/bin/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.pdb
+C:/Users/jpi/source/repos/Traveaux pratiqque c/02-ObjectMoto/Entainement/obj/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.csproj.CoreCompileInputs.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/02-ObjectMoto/Entainement/obj/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.AssemblyInfoInputs.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/02-ObjectMoto/Entainement/obj/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.AssemblyInfo.cs
+C:/Users/jpi/source/repos/Traveaux pratiqque c/02-ObjectMoto/Entainement/obj/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.dll
+C:/Users/jpi/source/repos/Traveaux pratiqque c/02-ObjectMoto/Entainement/obj/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.pdb
+C:/Users/jpi/source/repos/Cs_Formation/02-ObjectMoto/Entainement/bin/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.deps.json
+C:/Users/jpi/source/repos/Cs_Formation/02-ObjectMoto/Entainement/bin/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.runtimeconfig.json
+C:/Users/jpi/source/repos/Cs_Formation/02-ObjectMoto/Entainement/bin/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.runtimeconfig.dev.json
+C:/Users/jpi/source/repos/Cs_Formation/02-ObjectMoto/Entainement/bin/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.dll
+C:/Users/jpi/source/repos/Cs_Formation/02-ObjectMoto/Entainement/bin/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.pdb
+C:/Users/jpi/source/repos/Cs_Formation/02-ObjectMoto/Entainement/obj/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.csprojAssemblyReference.cache
+C:/Users/jpi/source/repos/Cs_Formation/02-ObjectMoto/Entainement/obj/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.csproj.CoreCompileInputs.cache
+C:/Users/jpi/source/repos/Cs_Formation/02-ObjectMoto/Entainement/obj/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.AssemblyInfoInputs.cache
+C:/Users/jpi/source/repos/Cs_Formation/02-ObjectMoto/Entainement/obj/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.AssemblyInfo.cs
+C:/Users/jpi/source/repos/Cs_Formation/02-ObjectMoto/Entainement/obj/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.dll
+C:/Users/jpi/source/repos/Cs_Formation/02-ObjectMoto/Entainement/obj/Debug/netcoreapp2.1/00-00-Entainement_obj_moto.pdb

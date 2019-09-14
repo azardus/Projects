@@ -9,7 +9,7 @@ namespace _18_VirtualEtOverride
             Console.WriteLine("Virtual et Override");
             Console.WriteLine("-------------------");
 
-            Animal unAnimal = new Animal("str");
+            Animal unAnimal = new Animal("titi");
             Console.WriteLine($"{unAnimal.Grogner()}");
 
             Dog monChien = new Dog("Rex", 3);
@@ -17,18 +17,34 @@ namespace _18_VirtualEtOverride
             monChien.SetName("Fulgor");
             //fulgor = "Fulgor";
             //monChien.SetName(fulgor);
+
+            unAnimal.Name = "titi";
+
+
         }
 
         class Animal
         {
-            protected string name;
-            protected byte age;
-            protected string grognement;
+            protected string _name;
+            protected byte _age;
+            protected string _grognement;
 
-            public string Name { get => name; set => name = value; }
-            public Animal(string str)
+            public string Name 
+            { 
+                get => _name; 
+                set 
+                { 
+                    _name = value; 
+                }
+            }
+
+            public string Age { get; set; }
+            
+
+            public Animal(string name)
             {
                 Console.WriteLine("[Animal] RRRR ");
+                _name = name;
             }   
             public virtual string Grogner()
             { 

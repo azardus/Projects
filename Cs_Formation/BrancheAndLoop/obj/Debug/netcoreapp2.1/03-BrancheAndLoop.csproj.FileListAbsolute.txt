@@ -1,20 +1,20 @@
-C:\Users\jpi\source\repos\Traveaux pratiqque c\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.deps.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.runtimeconfig.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.runtimeconfig.dev.json
-C:\Users\jpi\source\repos\Traveaux pratiqque c\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.dll
-C:\Users\jpi\source\repos\Traveaux pratiqque c\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.pdb
-C:\Users\jpi\source\repos\Traveaux pratiqque c\BrancheAndLoop\obj\Debug\netcoreapp2.1\03-BrancheAndLoop.csproj.CoreCompileInputs.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\BrancheAndLoop\obj\Debug\netcoreapp2.1\03-BrancheAndLoop.AssemblyInfoInputs.cache
-C:\Users\jpi\source\repos\Traveaux pratiqque c\BrancheAndLoop\obj\Debug\netcoreapp2.1\03-BrancheAndLoop.AssemblyInfo.cs
-C:\Users\jpi\source\repos\Traveaux pratiqque c\BrancheAndLoop\obj\Debug\netcoreapp2.1\03-BrancheAndLoop.dll
-C:\Users\jpi\source\repos\Traveaux pratiqque c\BrancheAndLoop\obj\Debug\netcoreapp2.1\03-BrancheAndLoop.pdb
-C:\Users\jpi\source\repos\Cs_Formation\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.deps.json
-C:\Users\jpi\source\repos\Cs_Formation\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.runtimeconfig.json
-C:\Users\jpi\source\repos\Cs_Formation\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.runtimeconfig.dev.json
-C:\Users\jpi\source\repos\Cs_Formation\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.dll
-C:\Users\jpi\source\repos\Cs_Formation\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.pdb
-C:\Users\jpi\source\repos\Cs_Formation\BrancheAndLoop\obj\Debug\netcoreapp2.1\03-BrancheAndLoop.csproj.CoreCompileInputs.cache
-C:\Users\jpi\source\repos\Cs_Formation\BrancheAndLoop\obj\Debug\netcoreapp2.1\03-BrancheAndLoop.AssemblyInfoInputs.cache
-C:\Users\jpi\source\repos\Cs_Formation\BrancheAndLoop\obj\Debug\netcoreapp2.1\03-BrancheAndLoop.AssemblyInfo.cs
-C:\Users\jpi\source\repos\Cs_Formation\BrancheAndLoop\obj\Debug\netcoreapp2.1\03-BrancheAndLoop.dll
-C:\Users\jpi\source\repos\Cs_Formation\BrancheAndLoop\obj\Debug\netcoreapp2.1\03-BrancheAndLoop.pdb
+C:/Users/jpi/source/repos/Traveaux pratiqque c/BrancheAndLoop/bin/Debug/netcoreapp2.1/03-BrancheAndLoop.deps.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/BrancheAndLoop/bin/Debug/netcoreapp2.1/03-BrancheAndLoop.runtimeconfig.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/BrancheAndLoop/bin/Debug/netcoreapp2.1/03-BrancheAndLoop.runtimeconfig.dev.json
+C:/Users/jpi/source/repos/Traveaux pratiqque c/BrancheAndLoop/bin/Debug/netcoreapp2.1/03-BrancheAndLoop.dll
+C:/Users/jpi/source/repos/Traveaux pratiqque c/BrancheAndLoop/bin/Debug/netcoreapp2.1/03-BrancheAndLoop.pdb
+C:/Users/jpi/source/repos/Traveaux pratiqque c/BrancheAndLoop/obj/Debug/netcoreapp2.1/03-BrancheAndLoop.csproj.CoreCompileInputs.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/BrancheAndLoop/obj/Debug/netcoreapp2.1/03-BrancheAndLoop.AssemblyInfoInputs.cache
+C:/Users/jpi/source/repos/Traveaux pratiqque c/BrancheAndLoop/obj/Debug/netcoreapp2.1/03-BrancheAndLoop.AssemblyInfo.cs
+C:/Users/jpi/source/repos/Traveaux pratiqque c/BrancheAndLoop/obj/Debug/netcoreapp2.1/03-BrancheAndLoop.dll
+C:/Users/jpi/source/repos/Traveaux pratiqque c/BrancheAndLoop/obj/Debug/netcoreapp2.1/03-BrancheAndLoop.pdb
+C:/Users/jpi/source/repos/Cs_Formation/BrancheAndLoop/bin/Debug/netcoreapp2.1/03-BrancheAndLoop.deps.json
+C:/Users/jpi/source/repos/Cs_Formation/BrancheAndLoop/bin/Debug/netcoreapp2.1/03-BrancheAndLoop.runtimeconfig.json
+C:/Users/jpi/source/repos/Cs_Formation/BrancheAndLoop/bin/Debug/netcoreapp2.1/03-BrancheAndLoop.runtimeconfig.dev.json
+C:/Users/jpi/source/repos/Cs_Formation/BrancheAndLoop/bin/Debug/netcoreapp2.1/03-BrancheAndLoop.dll
+C:/Users/jpi/source/repos/Cs_Formation/BrancheAndLoop/bin/Debug/netcoreapp2.1/03-BrancheAndLoop.pdb
+C:/Users/jpi/source/repos/Cs_Formation/BrancheAndLoop/obj/Debug/netcoreapp2.1/03-BrancheAndLoop.csproj.CoreCompileInputs.cache
+C:/Users/jpi/source/repos/Cs_Formation/BrancheAndLoop/obj/Debug/netcoreapp2.1/03-BrancheAndLoop.AssemblyInfoInputs.cache
+C:/Users/jpi/source/repos/Cs_Formation/BrancheAndLoop/obj/Debug/netcoreapp2.1/03-BrancheAndLoop.AssemblyInfo.cs
+C:/Users/jpi/source/repos/Cs_Formation/BrancheAndLoop/obj/Debug/netcoreapp2.1/03-BrancheAndLoop.dll
+C:/Users/jpi/source/repos/Cs_Formation/BrancheAndLoop/obj/Debug/netcoreapp2.1/03-BrancheAndLoop.pdb

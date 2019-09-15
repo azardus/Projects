@@ -1,24 +1,18 @@
 ﻿<Properties StartupConfiguration="{2A27C508-363C-41D4-9D98-88D4D3EE52DD}|Default">
   <MonoDevelop.Ide.ItemProperties.01-Variables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.20-calculatrice PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="20-calculatrice/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="21_Pointeur/Program.cs">
     <Files>
-      <File FileName="20-calculatrice/Program.cs" Line="54" Column="2" />
+      <File FileName="21_Pointeur/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Cs_Formation" expanded="True">
-            <Node name="20-calculatrice" expanded="True">
+            <Node name="20-calculatrice" expanded="True" />
+            <Node name="21_Pointeur" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="ClassPad">
-        <State name="__root__">
-          <Node name="Cs_Formation" expanded="True">
-            <Node name="00-00-Certif_Cs" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -27,6 +21,7 @@
   <MonoDevelop.Ide.ItemProperties.19-Type__Nullable PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.21__Pointeur FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -5,6 +5,13 @@
       <File FileName="LinkedList/LinkedListImplem/MyLinkedList.cs" Line="39" Column="40" />
       <File FileName="LinkedList/LinkedListImplem/MyNode.cs" Line="6" Column="27" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExerciceJeremie" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.LinkedList PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

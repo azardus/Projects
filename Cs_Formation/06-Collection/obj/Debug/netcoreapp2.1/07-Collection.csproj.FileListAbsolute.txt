@@ -19,3 +19,12 @@ C:/Users/jpi/source/repos/Cs_Formation/06-Collection/obj/Debug/netcoreapp2.1/07-
 C:/Users/jpi/source/repos/Cs_Formation/06-Collection/obj/Debug/netcoreapp2.1/07-Collection.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/06-Collection/obj/Debug/netcoreapp2.1/07-Collection.dll
 C:/Users/jpi/source/repos/Cs_Formation/06-Collection/obj/Debug/netcoreapp2.1/07-Collection.pdb
+D:\repos\Projets\Cs_Formation\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.deps.json
+D:\repos\Projets\Cs_Formation\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.dll
+D:\repos\Projets\Cs_Formation\06-Collection\bin\Debug\netcoreapp2.1\07-Collection.pdb
+D:\repos\Projets\Cs_Formation\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.dll
+D:\repos\Projets\Cs_Formation\06-Collection\obj\Debug\netcoreapp2.1\07-Collection.pdb

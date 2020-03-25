@@ -9,3 +9,12 @@ C:/Users/jpi/source/repos/Cs_Formation/calculator/obj/Debug/netcoreapp2.1/calcul
 C:/Users/jpi/source/repos/Cs_Formation/calculator/obj/Debug/netcoreapp2.1/calculator.dll
 C:/Users/jpi/source/repos/Cs_Formation/calculator/obj/Debug/netcoreapp2.1/calculator.pdb
 C:/Users/jpi/source/repos/Cs_Formation/calculator/obj/Debug/netcoreapp2.1/calculator.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\calculator\bin\Debug\netcoreapp2.1\calculator.deps.json
+D:\repos\Projets\Cs_Formation\calculator\bin\Debug\netcoreapp2.1\calculator.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\calculator\bin\Debug\netcoreapp2.1\calculator.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\calculator\bin\Debug\netcoreapp2.1\calculator.dll
+D:\repos\Projets\Cs_Formation\calculator\bin\Debug\netcoreapp2.1\calculator.pdb
+D:\repos\Projets\Cs_Formation\calculator\obj\Debug\netcoreapp2.1\calculator.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\calculator\obj\Debug\netcoreapp2.1\calculator.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\calculator\obj\Debug\netcoreapp2.1\calculator.dll
+D:\repos\Projets\Cs_Formation\calculator\obj\Debug\netcoreapp2.1\calculator.pdb

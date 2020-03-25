@@ -30,7 +30,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -179,28 +179,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/jeremie/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\jpi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeremie/Projects/Cs_Formation/09-using/09-using.csproj",
+      "projectUniqueName": "D:\\repos\\Projets\\Cs_Formation\\09-using\\09-using.csproj",
       "projectName": "09-using",
-      "projectPath": "/Users/jeremie/Projects/Cs_Formation/09-using/09-using.csproj",
-      "packagesPath": "/Users/jeremie/.nuget/packages/",
-      "outputPath": "/Users/jeremie/Projects/Cs_Formation/09-using/obj/",
+      "projectPath": "D:\\repos\\Projets\\Cs_Formation\\09-using\\09-using.csproj",
+      "packagesPath": "C:\\Users\\jpi\\.nuget\\packages\\",
+      "outputPath": "D:\\repos\\Projets\\Cs_Formation\\09-using\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/jeremie/.config/NuGet/NuGet.Config"
+        "C:\\Users\\jpi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -225,10 +227,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

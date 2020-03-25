@@ -8,3 +8,12 @@ C:/Users/jpi/source/repos/Cs_Formation/00-00-test/obj/Debug/netcoreapp2.1/00-00-
 C:/Users/jpi/source/repos/Cs_Formation/00-00-test/obj/Debug/netcoreapp2.1/00-00-test.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/00-00-test/obj/Debug/netcoreapp2.1/00-00-test.dll
 C:/Users/jpi/source/repos/Cs_Formation/00-00-test/obj/Debug/netcoreapp2.1/00-00-test.pdb
+D:\repos\Projets\Cs_Formation\00-00-test\bin\Debug\netcoreapp2.1\00-00-test.deps.json
+D:\repos\Projets\Cs_Formation\00-00-test\bin\Debug\netcoreapp2.1\00-00-test.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\00-00-test\bin\Debug\netcoreapp2.1\00-00-test.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\00-00-test\bin\Debug\netcoreapp2.1\00-00-test.dll
+D:\repos\Projets\Cs_Formation\00-00-test\bin\Debug\netcoreapp2.1\00-00-test.pdb
+D:\repos\Projets\Cs_Formation\00-00-test\obj\Debug\netcoreapp2.1\00-00-test.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\00-00-test\obj\Debug\netcoreapp2.1\00-00-test.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\00-00-test\obj\Debug\netcoreapp2.1\00-00-test.dll
+D:\repos\Projets\Cs_Formation\00-00-test\obj\Debug\netcoreapp2.1\00-00-test.pdb

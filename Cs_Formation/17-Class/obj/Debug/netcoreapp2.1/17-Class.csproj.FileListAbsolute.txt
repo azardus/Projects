@@ -9,3 +9,12 @@ C:/Users/jpi/source/repos/Cs_Formation/17-Class/obj/Debug/netcoreapp2.1/17-Class
 C:/Users/jpi/source/repos/Cs_Formation/17-Class/obj/Debug/netcoreapp2.1/17-Class.dll
 C:/Users/jpi/source/repos/Cs_Formation/17-Class/obj/Debug/netcoreapp2.1/17-Class.pdb
 C:/Users/jpi/source/repos/Cs_Formation/17-Class/obj/Debug/netcoreapp2.1/17-Class.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\17-Class\bin\Debug\netcoreapp2.1\17-Class.deps.json
+D:\repos\Projets\Cs_Formation\17-Class\bin\Debug\netcoreapp2.1\17-Class.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\17-Class\bin\Debug\netcoreapp2.1\17-Class.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\17-Class\bin\Debug\netcoreapp2.1\17-Class.dll
+D:\repos\Projets\Cs_Formation\17-Class\bin\Debug\netcoreapp2.1\17-Class.pdb
+D:\repos\Projets\Cs_Formation\17-Class\obj\Debug\netcoreapp2.1\17-Class.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\17-Class\obj\Debug\netcoreapp2.1\17-Class.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\17-Class\obj\Debug\netcoreapp2.1\17-Class.dll
+D:\repos\Projets\Cs_Formation\17-Class\obj\Debug\netcoreapp2.1\17-Class.pdb

@@ -1,0 +1,9 @@
+D:\repos\Projets\Cs_Formation\16-Structure\bin\Debug\netcoreapp2.1\16-Structure.deps.json
+D:\repos\Projets\Cs_Formation\16-Structure\bin\Debug\netcoreapp2.1\16-Structure.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\16-Structure\bin\Debug\netcoreapp2.1\16-Structure.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\16-Structure\bin\Debug\netcoreapp2.1\16-Structure.dll
+D:\repos\Projets\Cs_Formation\16-Structure\bin\Debug\netcoreapp2.1\16-Structure.pdb
+D:\repos\Projets\Cs_Formation\16-Structure\obj\Debug\netcoreapp2.1\16-Structure.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\16-Structure\obj\Debug\netcoreapp2.1\16-Structure.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\16-Structure\obj\Debug\netcoreapp2.1\16-Structure.dll
+D:\repos\Projets\Cs_Formation\16-Structure\obj\Debug\netcoreapp2.1\16-Structure.pdb

@@ -8,3 +8,12 @@ C:/Users/jpi/source/repos/Cs_Formation/Certif_C/Certif_C/obj/Debug/netcoreapp2.1
 C:/Users/jpi/source/repos/Cs_Formation/Certif_C/Certif_C/obj/Debug/netcoreapp2.1/00-00-Certif_Cs.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/Certif_C/Certif_C/obj/Debug/netcoreapp2.1/00-00-Certif_Cs.dll
 C:/Users/jpi/source/repos/Cs_Formation/Certif_C/Certif_C/obj/Debug/netcoreapp2.1/00-00-Certif_Cs.pdb
+D:\repos\Projets\Cs_Formation\Certif_C\Certif_C\bin\Debug\netcoreapp2.1\00-00-Certif_Cs.deps.json
+D:\repos\Projets\Cs_Formation\Certif_C\Certif_C\bin\Debug\netcoreapp2.1\00-00-Certif_Cs.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\Certif_C\Certif_C\bin\Debug\netcoreapp2.1\00-00-Certif_Cs.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\Certif_C\Certif_C\bin\Debug\netcoreapp2.1\00-00-Certif_Cs.dll
+D:\repos\Projets\Cs_Formation\Certif_C\Certif_C\bin\Debug\netcoreapp2.1\00-00-Certif_Cs.pdb
+D:\repos\Projets\Cs_Formation\Certif_C\Certif_C\obj\Debug\netcoreapp2.1\00-00-Certif_Cs.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\Certif_C\Certif_C\obj\Debug\netcoreapp2.1\00-00-Certif_Cs.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\Certif_C\Certif_C\obj\Debug\netcoreapp2.1\00-00-Certif_Cs.dll
+D:\repos\Projets\Cs_Formation\Certif_C\Certif_C\obj\Debug\netcoreapp2.1\00-00-Certif_Cs.pdb

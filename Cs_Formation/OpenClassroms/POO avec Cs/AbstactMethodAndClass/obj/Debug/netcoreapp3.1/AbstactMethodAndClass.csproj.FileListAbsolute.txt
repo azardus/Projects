@@ -1,0 +1,11 @@
+D:\repos\Projets\Cs_Formation\OpenClassroms\POO avec Cs\AbstactMethodAndClass\bin\Debug\netcoreapp3.1\AbstactMethodAndClass.exe
+D:\repos\Projets\Cs_Formation\OpenClassroms\POO avec Cs\AbstactMethodAndClass\bin\Debug\netcoreapp3.1\AbstactMethodAndClass.deps.json
+D:\repos\Projets\Cs_Formation\OpenClassroms\POO avec Cs\AbstactMethodAndClass\bin\Debug\netcoreapp3.1\AbstactMethodAndClass.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\OpenClassroms\POO avec Cs\AbstactMethodAndClass\bin\Debug\netcoreapp3.1\AbstactMethodAndClass.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\OpenClassroms\POO avec Cs\AbstactMethodAndClass\bin\Debug\netcoreapp3.1\AbstactMethodAndClass.dll
+D:\repos\Projets\Cs_Formation\OpenClassroms\POO avec Cs\AbstactMethodAndClass\bin\Debug\netcoreapp3.1\AbstactMethodAndClass.pdb
+D:\repos\Projets\Cs_Formation\OpenClassroms\POO avec Cs\AbstactMethodAndClass\obj\Debug\netcoreapp3.1\AbstactMethodAndClass.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\OpenClassroms\POO avec Cs\AbstactMethodAndClass\obj\Debug\netcoreapp3.1\AbstactMethodAndClass.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\OpenClassroms\POO avec Cs\AbstactMethodAndClass\obj\Debug\netcoreapp3.1\AbstactMethodAndClass.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\OpenClassroms\POO avec Cs\AbstactMethodAndClass\obj\Debug\netcoreapp3.1\AbstactMethodAndClass.dll
+D:\repos\Projets\Cs_Formation\OpenClassroms\POO avec Cs\AbstactMethodAndClass\obj\Debug\netcoreapp3.1\AbstactMethodAndClass.pdb

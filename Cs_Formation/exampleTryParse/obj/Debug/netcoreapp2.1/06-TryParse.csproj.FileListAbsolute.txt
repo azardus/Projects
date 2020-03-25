@@ -20,3 +20,12 @@ C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/obj/Debug/netcoreapp2.1/0
 C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.dll
 C:/Users/jpi/source/repos/Cs_Formation/exampleTryParse/obj/Debug/netcoreapp2.1/06-TryParse.pdb
+D:\repos\Projets\Cs_Formation\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.deps.json
+D:\repos\Projets\Cs_Formation\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.dll
+D:\repos\Projets\Cs_Formation\exampleTryParse\bin\Debug\netcoreapp2.1\06-TryParse.pdb
+D:\repos\Projets\Cs_Formation\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.dll
+D:\repos\Projets\Cs_Formation\exampleTryParse\obj\Debug\netcoreapp2.1\06-TryParse.pdb

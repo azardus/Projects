@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "20-calculatrice/1.0.0": {
+        "runtime": {
+          "20-calculatrice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20-calculatrice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

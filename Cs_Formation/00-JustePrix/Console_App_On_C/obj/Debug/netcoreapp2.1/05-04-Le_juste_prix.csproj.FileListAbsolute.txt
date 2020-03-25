@@ -19,3 +19,12 @@ C:/Users/jpi/source/repos/Cs_Formation/00-JustePrix/Console_App_On_C/obj/Debug/n
 C:/Users/jpi/source/repos/Cs_Formation/00-JustePrix/Console_App_On_C/obj/Debug/netcoreapp2.1/05-04-Le_juste_prix.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/00-JustePrix/Console_App_On_C/obj/Debug/netcoreapp2.1/05-04-Le_juste_prix.dll
 C:/Users/jpi/source/repos/Cs_Formation/00-JustePrix/Console_App_On_C/obj/Debug/netcoreapp2.1/05-04-Le_juste_prix.pdb
+D:\repos\Projets\Cs_Formation\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.deps.json
+D:\repos\Projets\Cs_Formation\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.dll
+D:\repos\Projets\Cs_Formation\00-JustePrix\Console_App_On_C\bin\Debug\netcoreapp2.1\05-04-Le_juste_prix.pdb
+D:\repos\Projets\Cs_Formation\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.dll
+D:\repos\Projets\Cs_Formation\00-JustePrix\Console_App_On_C\obj\Debug\netcoreapp2.1\05-04-Le_juste_prix.pdb

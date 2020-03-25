@@ -1,0 +1,9 @@
+D:\repos\Projets\Cs_Formation\20-calculatrice\bin\Debug\netcoreapp2.1\20-calculatrice.deps.json
+D:\repos\Projets\Cs_Formation\20-calculatrice\bin\Debug\netcoreapp2.1\20-calculatrice.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\20-calculatrice\bin\Debug\netcoreapp2.1\20-calculatrice.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\20-calculatrice\bin\Debug\netcoreapp2.1\20-calculatrice.dll
+D:\repos\Projets\Cs_Formation\20-calculatrice\bin\Debug\netcoreapp2.1\20-calculatrice.pdb
+D:\repos\Projets\Cs_Formation\20-calculatrice\obj\Debug\netcoreapp2.1\20-calculatrice.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\20-calculatrice\obj\Debug\netcoreapp2.1\20-calculatrice.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\20-calculatrice\obj\Debug\netcoreapp2.1\20-calculatrice.dll
+D:\repos\Projets\Cs_Formation\20-calculatrice\obj\Debug\netcoreapp2.1\20-calculatrice.pdb

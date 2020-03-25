@@ -1,0 +1,3 @@
+D:\repos\Projets\Cs_Formation\21_Pointeur\obj\Debug\netcoreapp2.1\21_Pointeur.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\21_Pointeur\obj\Debug\netcoreapp2.1\21_Pointeur.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\21_Pointeur\obj\Debug\netcoreapp2.1\21_Pointeur.AssemblyInfo.cs

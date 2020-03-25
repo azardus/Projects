@@ -1,3 +1,6 @@
 C:/Users/jpi/source/repos/Cs_Formation/Acme.Collections/obj/Debug/netcoreapp2.1/Acme.Collections.csproj.CoreCompileInputs.cache
 C:/Users/jpi/source/repos/Cs_Formation/Acme.Collections/obj/Debug/netcoreapp2.1/Acme.Collections.AssemblyInfoInputs.cache
 C:/Users/jpi/source/repos/Cs_Formation/Acme.Collections/obj/Debug/netcoreapp2.1/Acme.Collections.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\Acme.Collections\obj\Debug\netcoreapp2.1\Acme.Collections.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\Acme.Collections\obj\Debug\netcoreapp2.1\Acme.Collections.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\Acme.Collections\obj\Debug\netcoreapp2.1\Acme.Collections.AssemblyInfo.cs

@@ -18,3 +18,12 @@ C:/Users/jpi/source/repos/Cs_Formation/BrancheAndLoop/obj/Debug/netcoreapp2.1/03
 C:/Users/jpi/source/repos/Cs_Formation/BrancheAndLoop/obj/Debug/netcoreapp2.1/03-BrancheAndLoop.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/BrancheAndLoop/obj/Debug/netcoreapp2.1/03-BrancheAndLoop.dll
 C:/Users/jpi/source/repos/Cs_Formation/BrancheAndLoop/obj/Debug/netcoreapp2.1/03-BrancheAndLoop.pdb
+D:\repos\Projets\Cs_Formation\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.deps.json
+D:\repos\Projets\Cs_Formation\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.dll
+D:\repos\Projets\Cs_Formation\BrancheAndLoop\bin\Debug\netcoreapp2.1\03-BrancheAndLoop.pdb
+D:\repos\Projets\Cs_Formation\BrancheAndLoop\obj\Debug\netcoreapp2.1\03-BrancheAndLoop.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\BrancheAndLoop\obj\Debug\netcoreapp2.1\03-BrancheAndLoop.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\BrancheAndLoop\obj\Debug\netcoreapp2.1\03-BrancheAndLoop.dll
+D:\repos\Projets\Cs_Formation\BrancheAndLoop\obj\Debug\netcoreapp2.1\03-BrancheAndLoop.pdb

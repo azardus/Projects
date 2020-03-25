@@ -1,0 +1,17 @@
+D:\repos\Projets\Cs_Formation\Crud\bin\Debug\netcoreapp3.1\Crud.exe
+D:\repos\Projets\Cs_Formation\Crud\obj\Debug\netcoreapp3.1\Crud.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\Crud\obj\Debug\netcoreapp3.1\Crud.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\Crud\obj\Debug\netcoreapp3.1\Crud.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\Crud\bin\Debug\netcoreapp3.1\Crud.deps.json
+D:\repos\Projets\Cs_Formation\Crud\bin\Debug\netcoreapp3.1\Crud.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\Crud\bin\Debug\netcoreapp3.1\Crud.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\Crud\bin\Debug\netcoreapp3.1\Crud.dll
+D:\repos\Projets\Cs_Formation\Crud\bin\Debug\netcoreapp3.1\Crud.pdb
+D:\repos\Projets\Cs_Formation\Crud\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\repos\Projets\Cs_Formation\Crud\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\repos\Projets\Cs_Formation\Crud\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\repos\Projets\Cs_Formation\Crud\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\repos\Projets\Cs_Formation\Crud\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+D:\repos\Projets\Cs_Formation\Crud\obj\Debug\netcoreapp3.1\Crud.csproj.CopyComplete
+D:\repos\Projets\Cs_Formation\Crud\obj\Debug\netcoreapp3.1\Crud.dll
+D:\repos\Projets\Cs_Formation\Crud\obj\Debug\netcoreapp3.1\Crud.pdb

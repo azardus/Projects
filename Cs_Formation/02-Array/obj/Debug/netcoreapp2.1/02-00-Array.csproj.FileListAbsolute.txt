@@ -19,3 +19,13 @@ C:/Users/jpi/source/repos/Cs_Formation/02-Array/obj/Debug/netcoreapp2.1/02-00-Ar
 C:/Users/jpi/source/repos/Cs_Formation/02-Array/obj/Debug/netcoreapp2.1/02-00-Array.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/02-Array/obj/Debug/netcoreapp2.1/02-00-Array.dll
 C:/Users/jpi/source/repos/Cs_Formation/02-Array/obj/Debug/netcoreapp2.1/02-00-Array.pdb
+D:\repos\Projets\Cs_Formation\02-Array\bin\Debug\netcoreapp2.1\02-00-Array.deps.json
+D:\repos\Projets\Cs_Formation\02-Array\bin\Debug\netcoreapp2.1\02-00-Array.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\02-Array\bin\Debug\netcoreapp2.1\02-00-Array.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\02-Array\bin\Debug\netcoreapp2.1\02-00-Array.dll
+D:\repos\Projets\Cs_Formation\02-Array\bin\Debug\netcoreapp2.1\02-00-Array.pdb
+D:\repos\Projets\Cs_Formation\02-Array\obj\Debug\netcoreapp2.1\02-00-Array.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\02-Array\obj\Debug\netcoreapp2.1\02-00-Array.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\02-Array\obj\Debug\netcoreapp2.1\02-00-Array.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\02-Array\obj\Debug\netcoreapp2.1\02-00-Array.dll
+D:\repos\Projets\Cs_Formation\02-Array\obj\Debug\netcoreapp2.1\02-00-Array.pdb

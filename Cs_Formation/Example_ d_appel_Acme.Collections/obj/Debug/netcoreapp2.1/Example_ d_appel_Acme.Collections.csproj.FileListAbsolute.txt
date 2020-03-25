@@ -8,3 +8,13 @@ C:/Users/jpi/source/repos/Cs_Formation/Example_ d_appel_Acme.Collections/obj/Deb
 C:/Users/jpi/source/repos/Cs_Formation/Example_ d_appel_Acme.Collections/obj/Debug/netcoreapp2.1/Example_ d_appel_Acme.Collections.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/Example_ d_appel_Acme.Collections/obj/Debug/netcoreapp2.1/Example_ d_appel_Acme.Collections.dll
 C:/Users/jpi/source/repos/Cs_Formation/Example_ d_appel_Acme.Collections/obj/Debug/netcoreapp2.1/Example_ d_appel_Acme.Collections.pdb
+D:\repos\Projets\Cs_Formation\Example_ d_appel_Acme.Collections\bin\Debug\netcoreapp2.1\Example_ d_appel_Acme.Collections.deps.json
+D:\repos\Projets\Cs_Formation\Example_ d_appel_Acme.Collections\bin\Debug\netcoreapp2.1\Example_ d_appel_Acme.Collections.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\Example_ d_appel_Acme.Collections\bin\Debug\netcoreapp2.1\Example_ d_appel_Acme.Collections.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\Example_ d_appel_Acme.Collections\bin\Debug\netcoreapp2.1\Example_ d_appel_Acme.Collections.dll
+D:\repos\Projets\Cs_Formation\Example_ d_appel_Acme.Collections\bin\Debug\netcoreapp2.1\Example_ d_appel_Acme.Collections.pdb
+D:\repos\Projets\Cs_Formation\Example_ d_appel_Acme.Collections\obj\Debug\netcoreapp2.1\Example_ d_appel_Acme.Collections.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\Example_ d_appel_Acme.Collections\obj\Debug\netcoreapp2.1\Example_ d_appel_Acme.Collections.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\Example_ d_appel_Acme.Collections\obj\Debug\netcoreapp2.1\Example_ d_appel_Acme.Collections.dll
+D:\repos\Projets\Cs_Formation\Example_ d_appel_Acme.Collections\obj\Debug\netcoreapp2.1\Example_ d_appel_Acme.Collections.pdb
+D:\repos\Projets\Cs_Formation\Example_ d_appel_Acme.Collections\obj\Debug\netcoreapp2.1\Example_ d_appel_Acme.Collections.csprojAssemblyReference.cache

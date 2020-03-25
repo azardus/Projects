@@ -9,3 +9,12 @@ C:/Users/jpi/source/repos/Cs_Formation/15-Enumeration/obj/Debug/netcoreapp2.1/15
 C:/Users/jpi/source/repos/Cs_Formation/15-Enumeration/obj/Debug/netcoreapp2.1/15-Enumeration.dll
 C:/Users/jpi/source/repos/Cs_Formation/15-Enumeration/obj/Debug/netcoreapp2.1/15-Enumeration.pdb
 C:/Users/jpi/source/repos/Cs_Formation/15-Enumeration/obj/Debug/netcoreapp2.1/15-Enumeration.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\15-Enumeration\bin\Debug\netcoreapp2.1\15-Enumeration.deps.json
+D:\repos\Projets\Cs_Formation\15-Enumeration\bin\Debug\netcoreapp2.1\15-Enumeration.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\15-Enumeration\bin\Debug\netcoreapp2.1\15-Enumeration.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\15-Enumeration\bin\Debug\netcoreapp2.1\15-Enumeration.dll
+D:\repos\Projets\Cs_Formation\15-Enumeration\bin\Debug\netcoreapp2.1\15-Enumeration.pdb
+D:\repos\Projets\Cs_Formation\15-Enumeration\obj\Debug\netcoreapp2.1\15-Enumeration.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\15-Enumeration\obj\Debug\netcoreapp2.1\15-Enumeration.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\15-Enumeration\obj\Debug\netcoreapp2.1\15-Enumeration.dll
+D:\repos\Projets\Cs_Formation\15-Enumeration\obj\Debug\netcoreapp2.1\15-Enumeration.pdb

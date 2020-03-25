@@ -19,3 +19,12 @@ C:/Users/jpi/source/repos/Cs_Formation/05-00-Loops/obj/Debug/netcoreapp2.1/05-00
 C:/Users/jpi/source/repos/Cs_Formation/05-00-Loops/obj/Debug/netcoreapp2.1/05-00-Loops.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/05-00-Loops/obj/Debug/netcoreapp2.1/05-00-Loops.dll
 C:/Users/jpi/source/repos/Cs_Formation/05-00-Loops/obj/Debug/netcoreapp2.1/05-00-Loops.pdb
+D:\repos\Projets\Cs_Formation\05-00-Loops\bin\Debug\netcoreapp2.1\05-00-Loops.deps.json
+D:\repos\Projets\Cs_Formation\05-00-Loops\bin\Debug\netcoreapp2.1\05-00-Loops.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\05-00-Loops\bin\Debug\netcoreapp2.1\05-00-Loops.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\05-00-Loops\bin\Debug\netcoreapp2.1\05-00-Loops.dll
+D:\repos\Projets\Cs_Formation\05-00-Loops\bin\Debug\netcoreapp2.1\05-00-Loops.pdb
+D:\repos\Projets\Cs_Formation\05-00-Loops\obj\Debug\netcoreapp2.1\05-00-Loops.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\05-00-Loops\obj\Debug\netcoreapp2.1\05-00-Loops.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\05-00-Loops\obj\Debug\netcoreapp2.1\05-00-Loops.dll
+D:\repos\Projets\Cs_Formation\05-00-Loops\obj\Debug\netcoreapp2.1\05-00-Loops.pdb

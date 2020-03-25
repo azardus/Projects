@@ -19,3 +19,12 @@ C:/Users/jpi/source/repos/Cs_Formation/01-Variables/obj/Debug/netcoreapp2.1/01-V
 C:/Users/jpi/source/repos/Cs_Formation/01-Variables/obj/Debug/netcoreapp2.1/01-Variables.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/01-Variables/obj/Debug/netcoreapp2.1/01-Variables.dll
 C:/Users/jpi/source/repos/Cs_Formation/01-Variables/obj/Debug/netcoreapp2.1/01-Variables.pdb
+D:\repos\Projets\Cs_Formation\01-Variables\bin\Debug\netcoreapp2.1\01-Variables.deps.json
+D:\repos\Projets\Cs_Formation\01-Variables\bin\Debug\netcoreapp2.1\01-Variables.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\01-Variables\bin\Debug\netcoreapp2.1\01-Variables.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\01-Variables\bin\Debug\netcoreapp2.1\01-Variables.dll
+D:\repos\Projets\Cs_Formation\01-Variables\bin\Debug\netcoreapp2.1\01-Variables.pdb
+D:\repos\Projets\Cs_Formation\01-Variables\obj\Debug\netcoreapp2.1\01-Variables.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\01-Variables\obj\Debug\netcoreapp2.1\01-Variables.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\01-Variables\obj\Debug\netcoreapp2.1\01-Variables.dll
+D:\repos\Projets\Cs_Formation\01-Variables\obj\Debug\netcoreapp2.1\01-Variables.pdb

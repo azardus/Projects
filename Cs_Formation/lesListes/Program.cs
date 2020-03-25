@@ -45,6 +45,12 @@ namespace lesListes
             }
             Console.ReadKey();
 
+
+            Console.WriteLine("Création d une listes de la classe Person:");
+            Console.WriteLine("==========================================");
+
+
+
             Console.WriteLine("Création de Array :");
             Console.WriteLine("===================");
 
@@ -59,7 +65,7 @@ namespace lesListes
             // Detient un tableau object
 
             ArrayList arrayList = new ArrayList();
-            arrayList.
+            arrayList.Add(arrayInts[0]);
 
 
             Console.WriteLine("Création String collection:");
@@ -90,7 +96,7 @@ namespace lesListes
             public void deletePhoneNumber(int phone) { this._phoneNumber = phone; }
 
 
-            public string GetName() { return this._name; }
+            public string GetName() { return _name; }
             public void AddName(string name) { this._name = name; }
         }
 

@@ -2,3 +2,6 @@ C:/Users/jpi/source/repos/Cs_Formation/10-Using/obj/Debug/netcoreapp2.1/10-Using
 C:/Users/jpi/source/repos/Cs_Formation/10-Using/obj/Debug/netcoreapp2.1/10-Using.csproj.CoreCompileInputs.cache
 C:/Users/jpi/source/repos/Cs_Formation/10-Using/obj/Debug/netcoreapp2.1/10-Using.AssemblyInfoInputs.cache
 C:/Users/jpi/source/repos/Cs_Formation/10-Using/obj/Debug/netcoreapp2.1/10-Using.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\10-Using\obj\Debug\netcoreapp2.1\10-Using.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\10-Using\obj\Debug\netcoreapp2.1\10-Using.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\10-Using\obj\Debug\netcoreapp2.1\10-Using.AssemblyInfo.cs

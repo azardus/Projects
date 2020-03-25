@@ -1,0 +1,14 @@
+D:\repos\Projets\Pluralsight tutorials\ASP.net MVC 5 Fundamentals\OdeToFoodMVC\OdeTofood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+D:\repos\Projets\Pluralsight tutorials\ASP.net MVC 5 Fundamentals\OdeToFoodMVC\OdeTofood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+D:\repos\Projets\Pluralsight tutorials\ASP.net MVC 5 Fundamentals\OdeToFoodMVC\OdeTofood\OdeToFood.Data\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\repos\Projets\Pluralsight tutorials\ASP.net MVC 5 Fundamentals\OdeToFoodMVC\OdeTofood\OdeToFood.Data\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\repos\Projets\Pluralsight tutorials\ASP.net MVC 5 Fundamentals\OdeToFoodMVC\OdeTofood\OdeToFood.Data\bin\Debug\Microsoft.Analytics.Types.dll
+D:\repos\Projets\Pluralsight tutorials\ASP.net MVC 5 Fundamentals\OdeToFoodMVC\OdeTofood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
+D:\repos\Projets\Pluralsight tutorials\ASP.net MVC 5 Fundamentals\OdeToFoodMVC\OdeTofood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CopyComplete
+D:\repos\Projets\Pluralsight tutorials\ASP.net MVC 5 Fundamentals\OdeToFoodMVC\OdeTofood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+D:\repos\Projets\Pluralsight tutorials\ASP.net MVC 5 Fundamentals\OdeToFoodMVC\OdeTofood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
+D:\repos\Projets\Pluralsight tutorials\ASP.net MVC 5 Fundamentals\OdeToFoodMVC\OdeTofood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll.config
+D:\repos\Projets\Pluralsight tutorials\ASP.net MVC 5 Fundamentals\OdeToFoodMVC\OdeTofood\OdeToFood.Data\bin\Debug\EntityFramework.dll
+D:\repos\Projets\Pluralsight tutorials\ASP.net MVC 5 Fundamentals\OdeToFoodMVC\OdeTofood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\repos\Projets\Pluralsight tutorials\ASP.net MVC 5 Fundamentals\OdeToFoodMVC\OdeTofood\OdeToFood.Data\bin\Debug\EntityFramework.xml
+D:\repos\Projets\Pluralsight tutorials\ASP.net MVC 5 Fundamentals\OdeToFoodMVC\OdeTofood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.xml

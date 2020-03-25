@@ -1,0 +1,5 @@
+D:\repos\Projets\Cs_Formation\.vs\Cs_Formation\v16\lut\0\b\OpenClassroms\ASP.NET MVC\HelloWord\bin\HelloWord.dll.config
+D:\repos\Projets\Cs_Formation\.vs\Cs_Formation\v16\lut\0\b\OpenClassroms\ASP.NET MVC\HelloWord\bin\HelloWord.dll
+D:\repos\Projets\Cs_Formation\.vs\Cs_Formation\v16\lut\0\i\HelloWord\Debug\HelloWord.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\.vs\Cs_Formation\v16\lut\0\i\HelloWord\Debug\HelloWord.csproj.CopyComplete
+D:\repos\Projets\Cs_Formation\.vs\Cs_Formation\v16\lut\0\i\HelloWord\Debug\HelloWord.dll

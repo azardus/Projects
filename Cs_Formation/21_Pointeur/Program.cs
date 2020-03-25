@@ -15,18 +15,18 @@ namespace _21_Pointeur
 
 
             //FonctionDivision(int a, int b)
-            FonctionDivision(5 / 3);
+            FonctionDivision(5 , 3);
 
         }
 
 
-        public int FonctionDivision(int &a, int &b)
+        public unsafe int FonctionDivision(int a, int b)
         {
-            int a = 0;
-            int b= 0;
-            int result = 0;
+            int* a;
+            int* b;
+            int result = 0;         
 
-            *result = a / b;
+            result = *a / *b;
 
             return result;
         }

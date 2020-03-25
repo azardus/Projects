@@ -9,3 +9,12 @@ C:/Users/jpi/source/repos/Cs_Formation/14-heritage/bin/Debug/netcoreapp2.1/14-he
 C:/Users/jpi/source/repos/Cs_Formation/14-heritage/bin/Debug/netcoreapp2.1/14-heritage.pdb
 C:/Users/jpi/source/repos/Cs_Formation/14-heritage/obj/Debug/netcoreapp2.1/14-heritage.dll
 C:/Users/jpi/source/repos/Cs_Formation/14-heritage/obj/Debug/netcoreapp2.1/14-heritage.pdb
+D:\repos\Projets\Cs_Formation\14-heritage\bin\Debug\netcoreapp2.1\14-heritage.deps.json
+D:\repos\Projets\Cs_Formation\14-heritage\bin\Debug\netcoreapp2.1\14-heritage.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\14-heritage\bin\Debug\netcoreapp2.1\14-heritage.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\14-heritage\bin\Debug\netcoreapp2.1\14-heritage.dll
+D:\repos\Projets\Cs_Formation\14-heritage\bin\Debug\netcoreapp2.1\14-heritage.pdb
+D:\repos\Projets\Cs_Formation\14-heritage\obj\Debug\netcoreapp2.1\14-heritage.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\14-heritage\obj\Debug\netcoreapp2.1\14-heritage.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\14-heritage\obj\Debug\netcoreapp2.1\14-heritage.dll
+D:\repos\Projets\Cs_Formation\14-heritage\obj\Debug\netcoreapp2.1\14-heritage.pdb

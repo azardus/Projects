@@ -6,3 +6,11 @@ C:/Users/jpi/source/repos/Cs_Formation/09-using/obj/Debug/netstandard2.0/09-usin
 C:/Users/jpi/source/repos/Cs_Formation/09-using/obj/Debug/netstandard2.0/09-using.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/09-using/obj/Debug/netstandard2.0/09-using.dll
 C:/Users/jpi/source/repos/Cs_Formation/09-using/obj/Debug/netstandard2.0/09-using.pdb
+D:\repos\Projets\Cs_Formation\09-using\bin\Debug\netstandard2.0\09-using.deps.json
+D:\repos\Projets\Cs_Formation\09-using\bin\Debug\netstandard2.0\09-using.dll
+D:\repos\Projets\Cs_Formation\09-using\bin\Debug\netstandard2.0\09-using.pdb
+D:\repos\Projets\Cs_Formation\09-using\obj\Debug\netstandard2.0\09-using.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\09-using\obj\Debug\netstandard2.0\09-using.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\09-using\obj\Debug\netstandard2.0\09-using.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\09-using\obj\Debug\netstandard2.0\09-using.dll
+D:\repos\Projets\Cs_Formation\09-using\obj\Debug\netstandard2.0\09-using.pdb

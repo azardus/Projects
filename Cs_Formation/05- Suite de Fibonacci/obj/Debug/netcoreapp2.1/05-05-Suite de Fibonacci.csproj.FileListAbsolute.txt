@@ -20,3 +20,13 @@ C:/Users/jpi/source/repos/Cs_Formation/05- Suite de Fibonacci/obj/Debug/netcorea
 C:/Users/jpi/source/repos/Cs_Formation/05- Suite de Fibonacci/obj/Debug/netcoreapp2.1/05-05-Suite de Fibonacci.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/05- Suite de Fibonacci/obj/Debug/netcoreapp2.1/05-05-Suite de Fibonacci.dll
 C:/Users/jpi/source/repos/Cs_Formation/05- Suite de Fibonacci/obj/Debug/netcoreapp2.1/05-05-Suite de Fibonacci.pdb
+D:\repos\Projets\Cs_Formation\05- Suite de Fibonacci\bin\Debug\netcoreapp2.1\05-05-Suite de Fibonacci.dll.config
+D:\repos\Projets\Cs_Formation\05- Suite de Fibonacci\bin\Debug\netcoreapp2.1\05-05-Suite de Fibonacci.deps.json
+D:\repos\Projets\Cs_Formation\05- Suite de Fibonacci\bin\Debug\netcoreapp2.1\05-05-Suite de Fibonacci.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\05- Suite de Fibonacci\bin\Debug\netcoreapp2.1\05-05-Suite de Fibonacci.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\05- Suite de Fibonacci\bin\Debug\netcoreapp2.1\05-05-Suite de Fibonacci.dll
+D:\repos\Projets\Cs_Formation\05- Suite de Fibonacci\bin\Debug\netcoreapp2.1\05-05-Suite de Fibonacci.pdb
+D:\repos\Projets\Cs_Formation\05- Suite de Fibonacci\obj\Debug\netcoreapp2.1\05-05-Suite de Fibonacci.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\05- Suite de Fibonacci\obj\Debug\netcoreapp2.1\05-05-Suite de Fibonacci.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\05- Suite de Fibonacci\obj\Debug\netcoreapp2.1\05-05-Suite de Fibonacci.dll
+D:\repos\Projets\Cs_Formation\05- Suite de Fibonacci\obj\Debug\netcoreapp2.1\05-05-Suite de Fibonacci.pdb

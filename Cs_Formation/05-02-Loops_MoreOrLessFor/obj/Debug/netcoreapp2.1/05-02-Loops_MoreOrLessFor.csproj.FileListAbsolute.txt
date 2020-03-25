@@ -18,3 +18,12 @@ C:/Users/jpi/source/repos/Cs_Formation/05-02-Loops_MoreOrLessFor/obj/Debug/netco
 C:/Users/jpi/source/repos/Cs_Formation/05-02-Loops_MoreOrLessFor/obj/Debug/netcoreapp2.1/05-02-Loops_MoreOrLessFor.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/05-02-Loops_MoreOrLessFor/obj/Debug/netcoreapp2.1/05-02-Loops_MoreOrLessFor.dll
 C:/Users/jpi/source/repos/Cs_Formation/05-02-Loops_MoreOrLessFor/obj/Debug/netcoreapp2.1/05-02-Loops_MoreOrLessFor.pdb
+D:\repos\Projets\Cs_Formation\05-02-Loops_MoreOrLessFor\bin\Debug\netcoreapp2.1\05-02-Loops_MoreOrLessFor.deps.json
+D:\repos\Projets\Cs_Formation\05-02-Loops_MoreOrLessFor\bin\Debug\netcoreapp2.1\05-02-Loops_MoreOrLessFor.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\05-02-Loops_MoreOrLessFor\bin\Debug\netcoreapp2.1\05-02-Loops_MoreOrLessFor.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\05-02-Loops_MoreOrLessFor\bin\Debug\netcoreapp2.1\05-02-Loops_MoreOrLessFor.dll
+D:\repos\Projets\Cs_Formation\05-02-Loops_MoreOrLessFor\bin\Debug\netcoreapp2.1\05-02-Loops_MoreOrLessFor.pdb
+D:\repos\Projets\Cs_Formation\05-02-Loops_MoreOrLessFor\obj\Debug\netcoreapp2.1\05-02-Loops_MoreOrLessFor.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\05-02-Loops_MoreOrLessFor\obj\Debug\netcoreapp2.1\05-02-Loops_MoreOrLessFor.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\05-02-Loops_MoreOrLessFor\obj\Debug\netcoreapp2.1\05-02-Loops_MoreOrLessFor.dll
+D:\repos\Projets\Cs_Formation\05-02-Loops_MoreOrLessFor\obj\Debug\netcoreapp2.1\05-02-Loops_MoreOrLessFor.pdb

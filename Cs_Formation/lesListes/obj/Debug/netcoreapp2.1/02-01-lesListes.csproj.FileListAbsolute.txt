@@ -19,3 +19,12 @@ C:/Users/jpi/source/repos/Cs_Formation/lesListes/obj/Debug/netcoreapp2.1/02-01-l
 C:/Users/jpi/source/repos/Cs_Formation/lesListes/obj/Debug/netcoreapp2.1/02-01-lesListes.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/lesListes/obj/Debug/netcoreapp2.1/02-01-lesListes.dll
 C:/Users/jpi/source/repos/Cs_Formation/lesListes/obj/Debug/netcoreapp2.1/02-01-lesListes.pdb
+D:\repos\Projets\Cs_Formation\lesListes\bin\Debug\netcoreapp2.1\02-01-lesListes.deps.json
+D:\repos\Projets\Cs_Formation\lesListes\bin\Debug\netcoreapp2.1\02-01-lesListes.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\lesListes\bin\Debug\netcoreapp2.1\02-01-lesListes.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\lesListes\bin\Debug\netcoreapp2.1\02-01-lesListes.dll
+D:\repos\Projets\Cs_Formation\lesListes\bin\Debug\netcoreapp2.1\02-01-lesListes.pdb
+D:\repos\Projets\Cs_Formation\lesListes\obj\Debug\netcoreapp2.1\02-01-lesListes.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\lesListes\obj\Debug\netcoreapp2.1\02-01-lesListes.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\lesListes\obj\Debug\netcoreapp2.1\02-01-lesListes.dll
+D:\repos\Projets\Cs_Formation\lesListes\obj\Debug\netcoreapp2.1\02-01-lesListes.pdb

@@ -19,3 +19,13 @@ C:/Users/jpi/source/repos/Cs_Formation/ManipulationDesNombresIntergerEtFloat/obj
 C:/Users/jpi/source/repos/Cs_Formation/ManipulationDesNombresIntergerEtFloat/obj/Debug/netcoreapp2.1/02- ManipulationDesNombresIntergerEtDouble.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/ManipulationDesNombresIntergerEtFloat/obj/Debug/netcoreapp2.1/02- ManipulationDesNombresIntergerEtDouble.dll
 C:/Users/jpi/source/repos/Cs_Formation/ManipulationDesNombresIntergerEtFloat/obj/Debug/netcoreapp2.1/02- ManipulationDesNombresIntergerEtDouble.pdb
+D:\repos\Projets\Cs_Formation\ManipulationDesNombresIntergerEtFloat\bin\Debug\netcoreapp2.1\02- ManipulationDesNombresIntergerEtDouble.deps.json
+D:\repos\Projets\Cs_Formation\ManipulationDesNombresIntergerEtFloat\bin\Debug\netcoreapp2.1\02- ManipulationDesNombresIntergerEtDouble.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\ManipulationDesNombresIntergerEtFloat\bin\Debug\netcoreapp2.1\02- ManipulationDesNombresIntergerEtDouble.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\ManipulationDesNombresIntergerEtFloat\bin\Debug\netcoreapp2.1\02- ManipulationDesNombresIntergerEtDouble.dll
+D:\repos\Projets\Cs_Formation\ManipulationDesNombresIntergerEtFloat\bin\Debug\netcoreapp2.1\02- ManipulationDesNombresIntergerEtDouble.pdb
+D:\repos\Projets\Cs_Formation\ManipulationDesNombresIntergerEtFloat\obj\Debug\netcoreapp2.1\02- ManipulationDesNombresIntergerEtDouble.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\ManipulationDesNombresIntergerEtFloat\obj\Debug\netcoreapp2.1\02- ManipulationDesNombresIntergerEtDouble.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\ManipulationDesNombresIntergerEtFloat\obj\Debug\netcoreapp2.1\02- ManipulationDesNombresIntergerEtDouble.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\ManipulationDesNombresIntergerEtFloat\obj\Debug\netcoreapp2.1\02- ManipulationDesNombresIntergerEtDouble.dll
+D:\repos\Projets\Cs_Formation\ManipulationDesNombresIntergerEtFloat\obj\Debug\netcoreapp2.1\02- ManipulationDesNombresIntergerEtDouble.pdb

@@ -6,4 +6,8 @@
     <RootNamespace>_21_Pointeur</RootNamespace>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
 </Project>

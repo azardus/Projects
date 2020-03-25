@@ -8,3 +8,8 @@ C:/Users/jpi/source/repos/Cs_Formation/13-Swap/obj/Debug/netcoreapp2.1/13-Swap.A
 C:/Users/jpi/source/repos/Cs_Formation/13-Swap/obj/Debug/netcoreapp2.1/13-Swap.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/13-Swap/obj/Debug/netcoreapp2.1/13-Swap.dll
 C:/Users/jpi/source/repos/Cs_Formation/13-Swap/obj/Debug/netcoreapp2.1/13-Swap.pdb
+D:\repos\Projets\Cs_Formation\13-Swap\obj\Debug\netcoreapp2.1\13-Swap.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\13-Swap\obj\Debug\netcoreapp2.1\13-Swap.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\13-Swap\obj\Debug\netcoreapp2.1\13-Swap.dll
+D:\repos\Projets\Cs_Formation\13-Swap\obj\Debug\netcoreapp2.1\13-Swap.pdb
+D:\repos\Projets\Cs_Formation\13-Swap\obj\Debug\netcoreapp2.1\13-Swap.csprojAssemblyReference.cache

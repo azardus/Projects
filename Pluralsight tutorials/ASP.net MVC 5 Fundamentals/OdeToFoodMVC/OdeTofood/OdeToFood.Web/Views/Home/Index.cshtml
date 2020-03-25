@@ -1,0 +1,23 @@
+﻿@model IEnumerable<OdeToFood.Data.Models.Restaurant>
+@*La directive @model permet acceder au Models.Restaurant*@
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>ASP.NET</h1>
+    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more ASP.net &raquo;</a></p>
+
+    @*<div>Il y a @Enumerable.Count(Model) restaurants dans ma Bdd</div>*@
+    <div>Il y a @Model.Count() restaurants dans ma Bdd</div>
+
+</div>
+
+<ul>
+    @foreach (var restaurant in Model)
+    {
+
+        <li>@restaurant.Name</li>
+
+    }
+</ul>

@@ -9,3 +9,8 @@ C:/Users/jpi/source/repos/Cs_Formation/12-les classes/bin/Debug/netcoreapp2.1/12
 C:/Users/jpi/source/repos/Cs_Formation/12-les classes/obj/Debug/netcoreapp2.1/12-les classes.dll
 C:/Users/jpi/source/repos/Cs_Formation/12-les classes/obj/Debug/netcoreapp2.1/12-les classes.pdb
 C:/Users/jpi/source/repos/Cs_Formation/12-les classes/obj/Debug/netcoreapp2.1/12-les classes.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\12-les classes\obj\Debug\netcoreapp2.1\12-les classes.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\12-les classes\obj\Debug\netcoreapp2.1\12-les classes.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\12-les classes\obj\Debug\netcoreapp2.1\12-les classes.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\12-les classes\obj\Debug\netcoreapp2.1\12-les classes.dll
+D:\repos\Projets\Cs_Formation\12-les classes\obj\Debug\netcoreapp2.1\12-les classes.pdb

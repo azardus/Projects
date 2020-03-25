@@ -1,0 +1,1 @@
+﻿c’est-à-dire les classes qui interagissent avec les données et qui gèrent les règles spécifiques de notre application. 

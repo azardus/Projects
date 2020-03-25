@@ -9,3 +9,6 @@ C:/Users/jpi/source/repos/Cs_Formation/18-VirtualEtOverride/obj/Debug/netcoreapp
 C:/Users/jpi/source/repos/Cs_Formation/18-VirtualEtOverride/obj/Debug/netcoreapp2.1/18-VirtualEtOverride.dll
 C:/Users/jpi/source/repos/Cs_Formation/18-VirtualEtOverride/obj/Debug/netcoreapp2.1/18-VirtualEtOverride.pdb
 C:/Users/jpi/source/repos/Cs_Formation/18-VirtualEtOverride/obj/Debug/netcoreapp2.1/18-VirtualEtOverride.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\18-VirtualEtOverride\obj\Debug\netcoreapp2.1\18-VirtualEtOverride.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\18-VirtualEtOverride\obj\Debug\netcoreapp2.1\18-VirtualEtOverride.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\18-VirtualEtOverride\obj\Debug\netcoreapp2.1\18-VirtualEtOverride.AssemblyInfo.cs

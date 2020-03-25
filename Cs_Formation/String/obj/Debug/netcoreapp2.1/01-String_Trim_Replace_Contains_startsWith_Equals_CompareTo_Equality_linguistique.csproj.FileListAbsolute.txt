@@ -19,3 +19,13 @@ C:/Users/jpi/source/repos/Cs_Formation/String/obj/Debug/netcoreapp2.1/01-String_
 C:/Users/jpi/source/repos/Cs_Formation/String/obj/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/String/obj/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.dll
 C:/Users/jpi/source/repos/Cs_Formation/String/obj/Debug/netcoreapp2.1/01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.pdb
+D:\repos\Projets\Cs_Formation\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.deps.json
+D:\repos\Projets\Cs_Formation\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.dll
+D:\repos\Projets\Cs_Formation\String\bin\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.pdb
+D:\repos\Projets\Cs_Formation\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.dll
+D:\repos\Projets\Cs_Formation\String\obj\Debug\netcoreapp2.1\01-String_Trim_Replace_Contains_startsWith_Equals_CompareTo_Equality_linguistique.pdb

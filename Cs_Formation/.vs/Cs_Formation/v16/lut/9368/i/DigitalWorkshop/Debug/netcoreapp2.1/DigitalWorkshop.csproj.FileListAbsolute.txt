@@ -1,0 +1,9 @@
+D:\repos\Projets\Cs_Formation\.vs\Cs_Formation\v16\lut\0\b\DigitalWorkshop\Debug\netcoreapp2.1\DigitalWorkshop.deps.json
+D:\repos\Projets\Cs_Formation\.vs\Cs_Formation\v16\lut\0\b\DigitalWorkshop\Debug\netcoreapp2.1\DigitalWorkshop.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\.vs\Cs_Formation\v16\lut\0\b\DigitalWorkshop\Debug\netcoreapp2.1\DigitalWorkshop.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\.vs\Cs_Formation\v16\lut\0\b\DigitalWorkshop\Debug\netcoreapp2.1\DigitalWorkshop.dll
+D:\repos\Projets\Cs_Formation\.vs\Cs_Formation\v16\lut\0\i\DigitalWorkshop\Debug\netcoreapp2.1\DigitalWorkshop.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\.vs\Cs_Formation\v16\lut\0\i\DigitalWorkshop\Debug\netcoreapp2.1\DigitalWorkshop.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\.vs\Cs_Formation\v16\lut\0\i\DigitalWorkshop\Debug\netcoreapp2.1\DigitalWorkshop.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\.vs\Cs_Formation\v16\lut\0\i\DigitalWorkshop\Debug\netcoreapp2.1\DigitalWorkshop.csproj.CopyComplete
+D:\repos\Projets\Cs_Formation\.vs\Cs_Formation\v16\lut\0\i\DigitalWorkshop\Debug\netcoreapp2.1\DigitalWorkshop.dll

@@ -9,3 +9,12 @@ C:/Users/jpi/source/repos/Cs_Formation/00-DigitalWorkshop/DigitalWorkshop/obj/De
 C:/Users/jpi/source/repos/Cs_Formation/00-DigitalWorkshop/DigitalWorkshop/obj/Debug/netcoreapp2.1/DigitalWorkshop.dll
 C:/Users/jpi/source/repos/Cs_Formation/00-DigitalWorkshop/DigitalWorkshop/obj/Debug/netcoreapp2.1/DigitalWorkshop.pdb
 C:/Users/jpi/source/repos/Cs_Formation/00-DigitalWorkshop/DigitalWorkshop/obj/Debug/netcoreapp2.1/DigitalWorkshop.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\00-DigitalWorkshop\DigitalWorkshop\bin\Debug\netcoreapp2.1\DigitalWorkshop.deps.json
+D:\repos\Projets\Cs_Formation\00-DigitalWorkshop\DigitalWorkshop\bin\Debug\netcoreapp2.1\DigitalWorkshop.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\00-DigitalWorkshop\DigitalWorkshop\bin\Debug\netcoreapp2.1\DigitalWorkshop.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\00-DigitalWorkshop\DigitalWorkshop\bin\Debug\netcoreapp2.1\DigitalWorkshop.dll
+D:\repos\Projets\Cs_Formation\00-DigitalWorkshop\DigitalWorkshop\bin\Debug\netcoreapp2.1\DigitalWorkshop.pdb
+D:\repos\Projets\Cs_Formation\00-DigitalWorkshop\DigitalWorkshop\obj\Debug\netcoreapp2.1\DigitalWorkshop.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\00-DigitalWorkshop\DigitalWorkshop\obj\Debug\netcoreapp2.1\DigitalWorkshop.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\00-DigitalWorkshop\DigitalWorkshop\obj\Debug\netcoreapp2.1\DigitalWorkshop.dll
+D:\repos\Projets\Cs_Formation\00-DigitalWorkshop\DigitalWorkshop\obj\Debug\netcoreapp2.1\DigitalWorkshop.pdb

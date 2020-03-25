@@ -8,3 +8,12 @@ C:/Users/jpi/source/repos/Cs_Formation/08-OverFlowInt/obj/Debug/netcoreapp2.1/08
 C:/Users/jpi/source/repos/Cs_Formation/08-OverFlowInt/obj/Debug/netcoreapp2.1/08-OverFlowInt.AssemblyInfo.cs
 C:/Users/jpi/source/repos/Cs_Formation/08-OverFlowInt/obj/Debug/netcoreapp2.1/08-OverFlowInt.dll
 C:/Users/jpi/source/repos/Cs_Formation/08-OverFlowInt/obj/Debug/netcoreapp2.1/08-OverFlowInt.pdb
+D:\repos\Projets\Cs_Formation\08-OverFlowInt\bin\Debug\netcoreapp2.1\08-OverFlowInt.deps.json
+D:\repos\Projets\Cs_Formation\08-OverFlowInt\bin\Debug\netcoreapp2.1\08-OverFlowInt.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\08-OverFlowInt\bin\Debug\netcoreapp2.1\08-OverFlowInt.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\08-OverFlowInt\bin\Debug\netcoreapp2.1\08-OverFlowInt.dll
+D:\repos\Projets\Cs_Formation\08-OverFlowInt\bin\Debug\netcoreapp2.1\08-OverFlowInt.pdb
+D:\repos\Projets\Cs_Formation\08-OverFlowInt\obj\Debug\netcoreapp2.1\08-OverFlowInt.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\08-OverFlowInt\obj\Debug\netcoreapp2.1\08-OverFlowInt.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\08-OverFlowInt\obj\Debug\netcoreapp2.1\08-OverFlowInt.dll
+D:\repos\Projets\Cs_Formation\08-OverFlowInt\obj\Debug\netcoreapp2.1\08-OverFlowInt.pdb

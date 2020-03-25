@@ -1,0 +1,11 @@
+D:\repos\Projets\Cs_Formation\OpenClassrooms\POO avec Cs\MaPremiereApplicationCs\bin\Debug\netcoreapp3.1\MaPremiereApplicationCs.exe
+D:\repos\Projets\Cs_Formation\OpenClassrooms\POO avec Cs\MaPremiereApplicationCs\bin\Debug\netcoreapp3.1\MaPremiereApplicationCs.deps.json
+D:\repos\Projets\Cs_Formation\OpenClassrooms\POO avec Cs\MaPremiereApplicationCs\bin\Debug\netcoreapp3.1\MaPremiereApplicationCs.runtimeconfig.json
+D:\repos\Projets\Cs_Formation\OpenClassrooms\POO avec Cs\MaPremiereApplicationCs\bin\Debug\netcoreapp3.1\MaPremiereApplicationCs.runtimeconfig.dev.json
+D:\repos\Projets\Cs_Formation\OpenClassrooms\POO avec Cs\MaPremiereApplicationCs\bin\Debug\netcoreapp3.1\MaPremiereApplicationCs.dll
+D:\repos\Projets\Cs_Formation\OpenClassrooms\POO avec Cs\MaPremiereApplicationCs\bin\Debug\netcoreapp3.1\MaPremiereApplicationCs.pdb
+D:\repos\Projets\Cs_Formation\OpenClassrooms\POO avec Cs\MaPremiereApplicationCs\obj\Debug\netcoreapp3.1\MaPremiereApplicationCs.csprojAssemblyReference.cache
+D:\repos\Projets\Cs_Formation\OpenClassrooms\POO avec Cs\MaPremiereApplicationCs\obj\Debug\netcoreapp3.1\MaPremiereApplicationCs.AssemblyInfoInputs.cache
+D:\repos\Projets\Cs_Formation\OpenClassrooms\POO avec Cs\MaPremiereApplicationCs\obj\Debug\netcoreapp3.1\MaPremiereApplicationCs.AssemblyInfo.cs
+D:\repos\Projets\Cs_Formation\OpenClassrooms\POO avec Cs\MaPremiereApplicationCs\obj\Debug\netcoreapp3.1\MaPremiereApplicationCs.dll
+D:\repos\Projets\Cs_Formation\OpenClassrooms\POO avec Cs\MaPremiereApplicationCs\obj\Debug\netcoreapp3.1\MaPremiereApplicationCs.pdb
